@@ -2,7 +2,7 @@
 
 Welcome to Metadrip community focused on achieving interoperability across metaverse platforms
 
-API/Docs Link: https://
+API/Docs Link: https://github.com/xrcouture/metadrip/blob/main/ApiDocs.md
 
 ## Summary
 
