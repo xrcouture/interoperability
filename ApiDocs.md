@@ -30,12 +30,20 @@ It is not possible to transfer ownership of a wearable for one particular platfo
 
   The platforms will be provided with a REST API and these platforms can use it to retrieve the wearables/digital fashion asset and show it in their own marketplace or under users profile in the metaverse. If your platform doesn't support REST API, don't worry we got you covered. Contact us to know more about it
   
-![Metaverse Platforms](https://user-images.githubusercontent.com/122074866/234560521-49e9574a-0ecc-4322-9e83-11342ba989ab.png)
+  
+<div align="center">
+      <img src="https://user-images.githubusercontent.com/122074866/234560521-49e9574a-0ecc-4322-9e83-11342ba989ab.png">
+</div>
 
 # Format
 
 # Response
 The response to this request will in Json format
+
+
+<div align="center">
+      <img src="https://user-images.githubusercontent.com/122074866/234604017-075b4c34-4956-4bbb-ac96-26373400f3a1.png">
+</div>
 
 ## Supported Platforms
 
