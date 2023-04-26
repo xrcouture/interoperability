@@ -23,6 +23,9 @@ Metadrip is an experimental digital project developed with an aim to define a st
 Achieve interoperability of Digital fashion wearables across various Metaverse and Web2 platforms
 
 ## Contribution
+## Hello XRC
+This is a test text
+![Concept Video and demo ](https://user-images.githubusercontent.com/131877444/234579107-2c22c73d-e90f-4e00-b036-53c6d349ee46.png)
 
 
 ## Resources
