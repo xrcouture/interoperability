@@ -1,12 +1,15 @@
 # Metadrip
 
-Welcome to Metadrip community focused on achieving interoperability across metaverse platforms
+Welcome to our GitHub profile! We are a digital fashion/ wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
 
 API/Docs Link: https://github.com/xrcouture/metadrip/blob/main/ApiDocs.md
 
 ## Summary
 
 Metadrip is an experimental digital project developed with an aim to define a standard for an **Open Metaverse**
+<div>
+  <img src="https://user-images.githubusercontent.com/122074866/234803309-861106ed-3cb5-4fbf-91b4-cbbf986ee3e4.png" width="100%"/>
+</div>
 
 <div align="center">
   <a href="https://metadrip.xrcouture.com/">🖥 Website</a>
@@ -18,9 +21,13 @@ Metadrip is an experimental digital project developed with an aim to define a st
   <a href="https://twitter.com/XRCouture"><img alt="twitter" width="15px" src="https://camo.githubusercontent.com/ac6e1101f110e5f500287cf70dac72519687620deefb5e8de1fa7ba6a3ba2407/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f747769747465722e706e67"/> Twitter</a>
 </div>
 
+---
+
 ## Goals
 
-Achieve interoperability of Digital fashion wearables across various Metaverse and Web2 platforms
+We aim to develop wearables that are truly compatible with different platforms and standards, that support a variety of use cases and scenarios, and that enhance the user’s as well as the creator's experience to promote co- creation and in turn develop the ecosystem as a whole 
+
+---
 
 ## Contribution
 ## Hello XRC
