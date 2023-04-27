@@ -1,12 +1,7 @@
-# Metadrip
+# Interoperable Digital Fashion Wearables
 
 Welcome to our GitHub profile! We are a digital fashion/ wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
 
-API/Docs Link: https://github.com/xrcouture/metadrip/blob/main/ApiDocs.md
-
-## Summary
-
-Metadrip is an experimental digital project developed with an aim to define a standard for an **Open Metaverse**
 <div>
   <img src="https://user-images.githubusercontent.com/122074866/234803309-861106ed-3cb5-4fbf-91b4-cbbf986ee3e4.png" width="100%"/>
 </div>
@@ -23,19 +18,41 @@ Metadrip is an experimental digital project developed with an aim to define a st
 
 ---
 
-## Goals
+## 🥅 Goals
 
 We aim to develop wearables that are truly compatible with different platforms and standards, that support a variety of use cases and scenarios, and that enhance the user’s as well as the creator's experience to promote co- creation and in turn develop the ecosystem as a whole 
 
 ---
 
-## Contribution
-## Hello XRC
-This is a test text
-![Concept Video and demo ](https://user-images.githubusercontent.com/131877444/234579107-2c22c73d-e90f-4e00-b036-53c6d349ee46.png)
+## ✍ Contribution
 
+---
+
+## Our Projects and Roadmap
+
+We are passionate about fashion  in the metaverse, so it goes without saying that all our experiments and projects are for the greater goal of exploring that aspect and further developing it. We've shared some of our findings and research through some of our projects here-
+1. ### Wearables for web 2
+    - A collection of 3d garments that anyone can virtually try on. We’ve successfully created …. Garments for our web 2 collection and keep collaborating with new designers and artists. Our recent explorations in this involve the use of AI too! Discover what's available [here](https://web2.xrcouture.com)
+2. ### Metadrip 
+    - Our most ambitious experiment to create truly interoperable wearables compatible across various web 2 and web 3 platforms. So far we've successfully created a wearable NFT collection that has its utilities in over 6 platforms and released it to the public. We continue to expand on these list of platforms; this was just Metadrip 1.0. Through the coming versions we hope to achieve true interoperability while exploring and researching on avenues to do so. [Browse](https://metadrip.xrcouture.com) and see what catches your eye
+3. ### WRBL
+    - Easy garment creation service for multiple platforms. (This is still in very early stages of its development). Feel free to [look](https://wrbl.xrcouture.com) around 
+4. ### Clonex Dresser 
+    - A simple click to dress tool that we are building for the Clonex holders with an exciting roadmap to help interoperability (This is still in very early stages of its development) 
+
+ Please feel free to get in touch if you have any questions:
+
+---
+
+## Community and growth
+
+We believe that creators and developers are the pillars for realizing the metaverse we all have envisioned. Which is why we love spending a little time in growing the community and nurturing new talent. 
+
+Here is a workshop series we conducted for creating digital wearables for the metaverse. We covered topics like garment creation using softwares like Clo3d/Marvelous designer and the entire process for creating game-ready assets for the metaverse. This was one of many to come
+You can check the workshop series [here](https://)
+
+---
 
 ## Resources
 
-
-## Project RoadMap
+---
