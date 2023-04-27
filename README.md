@@ -1,6 +1,6 @@
 # Interoperable Digital Fashion Wearables
 
-Welcome to our GitHub profile! We are a digital fashion/ wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
+Welcome to our GitHub profile! We are a digital fashion/wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
 
 <div>
   <img src="https://user-images.githubusercontent.com/122074866/234803309-861106ed-3cb5-4fbf-91b4-cbbf986ee3e4.png" width="100%"/>
