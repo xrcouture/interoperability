@@ -45,7 +45,11 @@ It is not possible to transfer ownership of a wearable for one particular platfo
 
 # Format
 
-*https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}*
+https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+
+Example
+
+https://api.model.metadrip.xrcouture.com/web3/v1/xrc-abcdefghijklmnopqrst/platform/decentraland/address/0xcd8c097cC2331EeF50074bf69F7eD26e7896D48b
 
 # Response
 The response to this request will in Json format
