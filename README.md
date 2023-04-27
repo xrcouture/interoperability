@@ -9,7 +9,7 @@ Welcome to our GitHub profile! We are a digital fashion/ wearables platform that
 <div align="center">
   <a href="https://metadrip.xrcouture.com/">🖥 Website</a>
   &mdash;
-  <a href="https://www.spatial.io/s/XR-Coutures-PANDORA-62ecbd14cb78960001ce7b0b?share=8351098649935143560">🎨 Visit</a>
+  <a href="https://www.spatial.io/s/XR-Coutures-PANDORA-62ecbd14cb78960001ce7b0b?share=8351098649935143560">🥽 Spatial</a>
   &mdash;
   <a href="https://discord.gg/zHJ3UA5CeR"><img alt="discord" width="15px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667"/> Discord</a>
   &mdash;
@@ -28,7 +28,7 @@ We aim to develop wearables that are truly compatible with different platforms a
 
 ---
 
-## Our Projects and Roadmap
+## 🗺️ Our Projects and Roadmap
 
 We are passionate about fashion  in the metaverse, so it goes without saying that all our experiments and projects are for the greater goal of exploring that aspect and further developing it. We've shared some of our findings and research through some of our projects here-
 1. ### Wearables for web 2
@@ -44,7 +44,7 @@ We are passionate about fashion  in the metaverse, so it goes without saying tha
 
 ---
 
-## Community and growth
+## 🌐 Community and growth
 
 We believe that creators and developers are the pillars for realizing the metaverse we all have envisioned. Which is why we love spending a little time in growing the community and nurturing new talent. 
 
@@ -53,6 +53,6 @@ You can check the workshop series [here](https://)
 
 ---
 
-## Resources
+## 📚 Resources
 
 ---
