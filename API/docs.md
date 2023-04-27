@@ -2,9 +2,13 @@
 
 Welcome to the documentation of the api that is used to achieve interoperability of digital fashion wearables across different platforms. This documentation is mainly focused on the existing metadrip NFT collection
 
+---
+
 ## 🥅 Goal
 
 To achieve interoperability of digital fashions wearables across web2 and web3 platform
+
+---
 
 ## 🔗 Web3 platforms
 
@@ -14,17 +18,19 @@ To achieve interoperability of digital fashions wearables across web2 and web3 p
 
   The Web2 Games or platform also can allow their users to import their digital fashion wearables in to their environment. To know more about it. Book a demo with us
 
+---
 
 ## 🖼️ Origin NFT
 
-  we are not going to mint separate NFTs for each platform, instead mint a single NFT known as **Origin NFT** and link multiple 3d assets and it's schema to it. 
+  We are not going to mint separate NFTs for each platform, instead mint a single NFT known as **Origin NFT** and link multiple 3d assets and it's schema to it. 
 An ownership of the NFT means, the collective ownership of the wearables in all its linked metaverse/web2 platform
-
 
 ## Transferring ownership
 
   The ownership of NFT can be transferred to other user, which means the new owner has access to the wearables in all these platforms. 
 It is not possible to transfer ownership of a wearable for one particular platform. The NFTs can be sold from the WRBL platform or from opensea
+
+---
 
 ## API
 
