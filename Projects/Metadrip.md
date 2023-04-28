@@ -72,6 +72,7 @@ And created for other platforms like:
 <img src="https://user-images.githubusercontent.com/122074866/235130642-43a1e6fe-ec49-4653-b191-d3cc63e4e9e5.png" width="100%"/>
 We’ve documented all the technical aspects of creating 3d wearable [here](https://)
 
+
 **B]** We’ve tried to use each platform's unique capabilities to enhance the experience of using the wearable natively in that platform. 
 For example- We’ve added blinking lights using shader manipulations in Lens studio to create a more vivid experience for snapchat users to try on the Dazzling devil wearable
 
@@ -152,7 +153,43 @@ Something like this will cover the bare basics of creating a 3d wearable asset f
 
 Also with AI and tech continuously advancing, if we were to think about how wearables in the future would look like, It’s interesting to imagine concepts on how interactions in the metaverse would function and what it may look like. For example emotion dependent visual effects with wearables.
 
-[Here’s a small discussion where we’ve visualized  how a wearable of the future might  look like and the capabilities it might have](httpss://)
+[Here’s a small discussion where we’ve visualized  how a wearable of the future might  look like and the capabilities it might have](https://)
+
+
+
+**B]** The second solution can be a filetype which can be a standardized solution across all metaverses such a filetype may bake in all the necessary information that the asset might need to function well in any platform, including all the metadata it needs to be compatible and make use of all the features native to that platform.
+
+
+We have seen VRM as a very versatile format in this regard since it allows the users to add in a lot of interesting features/ interactions to the avatars like- deform bones, particle effects as well as blendshapes, etc. 
+
+https://user-images.githubusercontent.com/122074866/235131276-5bfbdd56-c082-4511-9612-89847c3a2b75.png
+
+But the major constraint here is that it is an avatar standard and does not allow easy customizability for the outfit/skin color/hair etc.
+
+There are a lot of easy creator tools that have simplified the process of creating VRM’s like VROID, but are very limited and still not as intuitive for any average user.
+
+[You can view some of our experiments where we take one VRM avatar and explore how it can be taken across platforms](https://)
+
+
+All this led us to experiment with creating an easy wearable editor for VRM and GLTF avatars.
+
+We want a simple drag and drop interface that allows users to upload any avatar and dress it with our wearables.
+
+We’ve started the development with support for Clonex avatars.Eventually we plan on adding support for multiple body types
+
+[You can learn more about it here](https://)
+
+---
+
+## Notes:
+**We are constantly exploring more tools and processes to help us move closer to the truly interoperable wearables in the metaverse. We hope to collaborate with creators and platforms in the process 🙂**
+
+---
+
+## How to contribute: 
+
+
+
 
 
 
