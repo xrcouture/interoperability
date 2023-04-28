@@ -37,4 +37,74 @@ Keeping in mind the technical constraints and challenges of what is possible tod
 ---
 
 ## Metadrip 1.0
-<img src="https://user-images.githubusercontent.com/122074866/235123629-678d42e9-a94a-4e42-9236-a7917f701c7c.png" align="center"/>
+<img src="https://user-images.githubusercontent.com/122074866/235123629-678d42e9-a94a-4e42-9236-a7917f701c7c.png" width="100%"/>
+
+### Stage: Complete
+
+### Goal:
+
+To solve for users-- Offer an interoperable wearable to the user where they can explore a cohesive identity across multiple metaverses and take their assets across platforms
+
+### Achievement
+
+**A]** We successfully deployed a collection of 12 wearable NFT’s and released it to the public for minting. 
+
+Added in utilities and deployed the collection for compatibility with platforms like: 
+  1) Decentraland
+  2) Snapchat AR
+  3) Zepeto
+  4) Minecraft
+  5) Megaverse
+  6) Clonex
+  7) Ovr
+  
+And created for other platforms like:
+  1) Roblox
+  2) Sandbox
+  3) Zepeto
+  4) Minecraft
+  5) Monaverse
+  6) Megaverse
+  7) Vroid VRM
+  8) Clonex
+  9) Metahuman
+
+<img src="https://user-images.githubusercontent.com/122074866/235130642-43a1e6fe-ec49-4653-b191-d3cc63e4e9e5.png" width="100%"/>
+We’ve documented all the technical aspects of creating 3d wearable [here](https://)
+
+**B]** We’ve tried to use each platform's unique capabilities to enhance the experience of using the wearable natively in that platform. 
+For example- We’ve added blinking lights using shader manipulations in Lens studio to create a more vivid experience for snapchat users to try on the Dazzling devil wearable
+
+https://user-images.githubusercontent.com/122074866/235131276-5bfbdd56-c082-4511-9612-89847c3a2b75.png
+
+See how one wearable looks when taken different platforms here  
+See the process of creating for different AR platforms here
+
+**C]** We’ve researched and successfully deployed linked wearables through API’s provided by Decentraland and OVR and have started exploring other ways to create a seamless verification process for NFT holder’s 
+ 
+### Learnings: 
+  -Creating 3d assets which are compatible for various platforms is a time consuming and tedious process
+    [We’ve drawn a more streamlined process for creating 3d assets here](https://)
+  -Verification methods for an ownership of an NFT on different platforms is clunky since all platforms function on different blockchains
+  -Integrations with different platforms requires some kind of an API which allows us to do so – which in most cases metaverses currently don't provide
+  
+---
+
+## Metadrip 2.0- 
+
+### Stage: in development
+
+### Goal: 
+To solve for Metaverse platforms- highlighting the problem of collaborating with different metaverse platforms seamlessly where the option of NFT verification and the 3d assets be usable and seamless.
+In order to do so, 
+  -We have decided to make the project ‘open-source’ to encourage exchange of resources and community participation while contributing our findings to help with the   research.
+  -We wish to work with forums such as ‘Metaverse Standard Forum’ to align with standards, research work from industry leaders
+  
+### Achievement: 
+So far we have collaborated with megaverse which is on the polygon blockchain and deployed our metadrip collection on the platform using our API to directly verify NFT holders on the platform and seamlessly use our wearables for their avatars directly on connecting their wallets.
+
+You can read more about our API [Here](https://)
+You can view the megaverse project and know more [here](https://)  
+  
+
+
