@@ -94,7 +94,7 @@ See the process of creating for different AR platforms [here](https://)
   - Creating 3d assets which are compatible for various platforms is a time consuming and tedious process
     [We’ve drawn a more streamlined process for creating 3d assets here](https://)
   - Verification methods for an ownership of an NFT on different platforms is clunky since all platforms function on different blockchains
-  - Integrations with different platforms requires some kind of an API which allows us to do so – which in most cases metaverses currently don't provide
+  - Integrations with different platforms requires an API – which in most cases metaverses currently don't provide
   
 ---
 
