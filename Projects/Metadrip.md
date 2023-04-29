@@ -11,8 +11,11 @@ The collection was created with an aim to make it accessible in as many web2 and
 [You can check the 3d technical process here](https://metadrip.xrcouture.com)
 
 Current distribution of Meta Drip
+
 12 designs x 10 supply = **120 NFTs**
+
 Minted = 71 NFTs
+
 Available = 49 NFTs
 
 ---
@@ -20,6 +23,10 @@ Available = 49 NFTs
 ## Why Metadrip
 
 We wanted to start with a small collection to explore designs that are challenging and different in texture, material, shape and form. We wanted  to see how closely this type of a collection can be created for different platforms while maintaining the fidelity and feel of the original to whatever possible extent.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/235295855-596e84f8-033a-4a63-9fe6-6e9744bd918b.gif" width="auto" height="40%"/>
+</div>
 
 ---
 
@@ -36,10 +43,8 @@ Keeping in mind the technical constraints and challenges of what is possible tod
 
 ---
 
-## Metadrip 1.0
+## Metadrip 1.0 <img src="https://img.shields.io/static/v1?label=&message=Completed&color=green">
 <img src="https://user-images.githubusercontent.com/122074866/235123629-678d42e9-a94a-4e42-9236-a7917f701c7c.png" width="100%"/>
-
-### Stage: Complete
 
 ### Goal: To solve for users
   
@@ -76,7 +81,7 @@ We’ve documented all the technical aspects of creating 3d wearable [here](http
 **B]** We’ve tried to use each platform's unique capabilities to enhance the experience of using the wearable natively in that platform. 
 For example- We’ve added blinking lights using shader manipulations in Lens studio to create a more vivid experience for snapchat users to try on the Dazzling devil wearable
 
-https://user-images.githubusercontent.com/122074866/235131276-5bfbdd56-c082-4511-9612-89847c3a2b75.png
+<img src="https://user-images.githubusercontent.com/122074866/235295855-596e84f8-033a-4a63-9fe6-6e9744bd918b.gif" width="100%"/>
 
 See how one wearable looks when taken different platforms [here](https://)
 See the process of creating for different AR platforms [here](https://)
@@ -91,9 +96,7 @@ See the process of creating for different AR platforms [here](https://)
   
 ---
 
-## Metadrip 2.0 
-
-### Stage: in development
+## Metadrip 2.0 <img src="https://img.shields.io/static/v1?label=&message=In Development&color=yellow"> 
 
 ### Goal: To solve for Metaverse platforms
 
@@ -110,9 +113,7 @@ You can view the megaverse project and know more [here](https://)
 
 ---
 
-## Metadrip 3.0
-
-### Stage: brainstorming
+## Metadrip 3.0 <img src="https://img.shields.io/static/v1?label=&message=Brainstorming&color=orange"> 
 
 ### Goal: 
 
@@ -162,7 +163,11 @@ Also with AI and tech continuously advancing, if we were to think about how wear
 
 We have seen VRM as a very versatile format in this regard since it allows the users to add in a lot of interesting features/ interactions to the avatars like- deform bones, particle effects as well as blendshapes, etc. 
 
-https://user-images.githubusercontent.com/122074866/235131276-5bfbdd56-c082-4511-9612-89847c3a2b75.png
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/235296430-374a68cb-6b1f-4a31-88b8-8e32205d64df.gif" width="auto" height="40%"/>
+</div>
+
 
 But the major constraint here is that it is an avatar standard and does not allow easy customizability for the outfit/skin color/hair etc.
 
