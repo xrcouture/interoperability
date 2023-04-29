@@ -81,7 +81,9 @@ We’ve documented all the technical aspects of creating 3d wearable [here](http
 **B]** We’ve tried to use each platform's unique capabilities to enhance the experience of using the wearable natively in that platform. 
 For example- We’ve added blinking lights using shader manipulations in Lens studio to create a more vivid experience for snapchat users to try on the Dazzling devil wearable
 
-<img src="https://user-images.githubusercontent.com/122074866/235295855-596e84f8-033a-4a63-9fe6-6e9744bd918b.gif" width="100%"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/235297493-210fcf60-c39c-4cdd-ac0b-175d0530836c.gif" width="auto" height="40%"/>
+</div>
 
 See how one wearable looks when taken different platforms [here](https://)
 See the process of creating for different AR platforms [here](https://)
@@ -102,8 +104,8 @@ See the process of creating for different AR platforms [here](https://)
 
   Highlighting the problem of collaborating with different metaverse platforms seamlessly where the option of NFT verification and the 3d assets be usable and seamless.
 In order to do so, 
-  - We have decided to make the project ‘open-source’ to encourage exchange of resources and community participation while contributing our findings to help with the   research.
-  - We wish to work with forums such as ‘Metaverse Standard Forum’ to align with standards, research work from industry leaders
+  - We have decided to create an API that allows any metaverse platform to integrate it within their platform and the user can seamlesly access their wearables that are part of the another environment
+  - The API actually links a NFT to multiple supported 3d files and it retrieves these files based on the request from the metaverse platorm. This will pave way for the single wearables to be used across multiple metaverse platforms
   
 ### Achievement: 
 So far we have collaborated with megaverse which is on the polygon blockchain and deployed our metadrip collection on the platform using our API to directly verify NFT holders on the platform and seamlessly use our wearables for their avatars directly on connecting their wallets.
