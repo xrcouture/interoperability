@@ -30,10 +30,6 @@ We aim to develop wearables that are truly compatible with different platforms a
 
 ---
 
-## ✍ How can you contribute
-
----
-
 ## 🗺️ Our Projects and Roadmap
 
 We are passionate about fashion  in the metaverse, so it goes without saying that all our experiments and projects are for the greater goal of exploring that aspect and further developing it. We've shared some of our findings and research through some of our projects here-
@@ -56,6 +52,10 @@ We believe that creators and developers are the pillars for realizing the metave
 
 Here is a workshop series we conducted for creating digital wearables for the metaverse. We covered topics like garment creation using softwares like Clo3d/Marvelous designer and the entire process for creating game-ready assets for the metaverse. This was one of many to come
 You can check the workshop series [here](https://)
+
+---
+
+## ✍ How can you contribute
 
 ---
 
