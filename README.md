@@ -1,5 +1,7 @@
 # Exploring Interoperable Digital Fashion Wearables
 
+## Intro
+
 Welcome to our GitHub profile! We are a digital fashion/wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
 
 <div>
@@ -24,7 +26,11 @@ We aim to develop wearables that are truly compatible with different platforms a
 
 ---
 
-## ✍ Contribution
+## What interoperability is to us
+
+---
+
+## ✍ How can you contribute
 
 ---
 
@@ -54,5 +60,7 @@ You can check the workshop series [here](https://)
 ---
 
 ## 📚 Resources
+
+- You can explore our API documentation [here](https://github.com/xrcouture/metadrip/blob/main/APIdocs.md)
 
 ---
