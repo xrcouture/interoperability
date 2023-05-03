@@ -2,7 +2,7 @@
 
 ## Intro
 
-Welcome to our GitHub profile! We are a digital fashion/wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
+Welcome to our GitHub profile! We are a digital fashion/ wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
 
 <div>
   <img src="https://user-images.githubusercontent.com/122074866/234803309-861106ed-3cb5-4fbf-91b4-cbbf986ee3e4.png" width="100%"/>
@@ -20,28 +20,43 @@ Welcome to our GitHub profile! We are a digital fashion/wearables platform that 
 
 ---
 
-## 🥅 Goals
+## 🥅 Our Goal
 
-We aim to develop wearables that are truly compatible with different platforms and standards, that support a variety of use cases and scenarios, and that enhance the user’s as well as the creator's experience to promote co- creation and in turn develop the ecosystem as a whole 
+We aim to 
+
+- Develop interoperable wearables that are compatible with different platforms and standards.
+- Support a variety of use cases and scenarios.
+- Enhance the user’s experience as well as the creator’s experience.
+- Promote co-creation to develop the ecosystem as a whole.
+
 
 ---
 
 ## What interoperability is to us
 
+We define interoperability in 3 stages:
+
+  1. **Airdrops/Linked wearables:** Assets/NFT’s like wearables can be bought and used in as many platforms possible using connected airdrops for NFT’s
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/235868988-a09e37fa-67df-45e6-831d-11b821b8b25b.png" width="auto" height="40%"/>
+  </div>
+  2. **API Integration:** API that works with multiple metaverse platforms allowing
+seamless exchange of information on their assets where users can move smoothly from one virtual world to another
+  3. **Open Standards:** Universal Standards & Open-Source Technology implementation
+
+
 ---
 
 ## 🗺️ Our Projects and Roadmap
 
-We are passionate about fashion  in the metaverse, so it goes without saying that all our experiments and projects are for the greater goal of exploring that aspect and further developing it. We've shared some of our findings and research through some of our projects here-
-1. ### Wearables for web 2
-    - A collection of 3d garments that anyone can virtually try on. We’ve successfully created …. Garments for our web 2 collection and keep collaborating with new designers and artists. Our recent explorations in this involve the use of AI too! Discover what's available [here](https://web2.xrcouture.com)
-2. ### Metadrip 
-    - Our most ambitious experiment to create truly interoperable wearables compatible across various web 2 and web 3 platforms. So far we've successfully created a wearable NFT collection that has its utilities in over 6 platforms and released it to the public. We continue to expand on these list of platforms; this was just Metadrip 1.0. Through the coming versions we hope to achieve true interoperability while exploring and researching on avenues to do so. Explore more about it [here](https://github.com/xrcouture/metadrip/blob/main/Metadrip.md) and see what catches your eye
-3. ### WRBL
-    - Easy garment creation service for multiple platforms. (This is still in very early stages of its development). Feel free to [look](https://wrbl.xrcouture.com) around 
-4. ### Clonex Dresser 
-    - A simple click to dress tool that we are building for the Clonex holders with an exciting roadmap to help interoperability (This is still in very early stages of its development) 
+All our experiments and projects are for the greater goal of exploring that aspect and further developing it. We've shared some of our findings and research through some of our projects here
 
+Our experiments and projects are for the greater goal of interoperable fashion in the metaverse. We’ve shared our findings and research through some of our projects such as:
+
+  - **Virtual try ons** - A collection of 3d garments that anyone can virtually try on their photographs
+  - **Metadrip** - A wearable NFT collection that can currently be used across 6 platforms. We unlock interoperability through experimentation
+  - **WRBL** - Easy 3d garment creation service for multiple platforms
+  - **Clonex Dresser** - A simple click to dress tool that we are building for the Clonex holders - and later many more avatar types.
  Please feel free to get in touch if you have any questions:
 
 ---
