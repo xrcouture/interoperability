@@ -1,6 +1,6 @@
 # Metadrip
 
-<img src="https://user-images.githubusercontent.com/122074866/235122574-f97ea968-7290-4959-816e-8d3c8b4d156a.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/122074866/235941280-c93697aa-b450-46e7-a5b3-40dd0b0b2e4c.gif" width="100%"/>
 
 ## What is Meta Drip?
   - A collection of 12 designs created by independent artists using different softwares and design principles. 
@@ -50,7 +50,7 @@ We’ve divided our roadmap into three milestones:
 ## Metadrip 1.0 <img src="https://img.shields.io/static/v1?label=&message=Completed&color=green">
 <img src="https://user-images.githubusercontent.com/122074866/235123629-678d42e9-a94a-4e42-9236-a7917f701c7c.png" width="100%"/>
 
-### Goal: To be Aligned with stage 1 of interoperability mentioned [here](https://github.com/xrcouture/metadrip/blob/main/README.md#what-interoperability-is-to-us)
+### Goal: To be Aligned with stage 1 of interoperability mentioned [here](https://github.com/xrcouture/interoperability#1-airdropslinked-wearables)
 
   **3d:** To upload wearables in different web 2 and web 3 platforms and make it accessible to the users easily. 
 
@@ -68,7 +68,7 @@ We’ve divided our roadmap into three milestones:
     
     3. Zepeto
     
-    4.Clonex
+    4. Clonex
 
   And created for other platforms like:
   
@@ -82,7 +82,7 @@ We’ve divided our roadmap into three milestones:
     
     5. Monaverse
     
-    6.  Megaverse
+    6. Megaverse
     
     7. Vroid VRM
     
@@ -143,10 +143,7 @@ We’ve documented all the technical aspects of creating 3d wearable [here](http
   
   **Tech:** To align with stage 2 of interoperability
   
-    We have decided to create an API that allows any metaverse platform to integrate it within their platform and the user can seamlesly access their wearables that are part of the another environment
-    The API actually links a NFT to multiple supported 3d files and it retrieves these files based on the request from the metaverse platorm. This will pave way for the single wearables to be used across multiple metaverse platforms
-    
-  In order to do so, 
+   - To use an API that allows any metaverse platform to integrate it within their platform and the user can seamlesly access their wearables that are part of the another environment
   
    - Collaborate with metaverse platforms and integrate API’s 
     
