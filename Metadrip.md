@@ -50,7 +50,7 @@ We’ve divided our roadmap into three milestones:
 ## Metadrip 1.0 <img src="https://img.shields.io/static/v1?label=&message=Completed&color=green">
 <img src="https://user-images.githubusercontent.com/122074866/235123629-678d42e9-a94a-4e42-9236-a7917f701c7c.png" width="100%"/>
 
-### Goal: To be Aligned with stage 1 of interoperability mentioned here(Section Link)
+### Goal: To be Aligned with stage 1 of interoperability mentioned [here](https://github.com/xrcouture/metadrip/blob/main/README.md#what-interoperability-is-to-us)
 
   **3d:** To upload wearables in different web 2 and web 3 platforms and make it accessible to the users easily. 
 
@@ -137,18 +137,43 @@ We’ve documented all the technical aspects of creating 3d wearable [here](http
 
 ## Metadrip 2.0 <img src="https://img.shields.io/static/v1?label=&message=In Development&color=yellow"> 
 
-### Goal: To solve for Metaverse platforms
+### Goal: 
 
-  Highlighting the problem of collaborating with different metaverse platforms seamlessly where the option of NFT verification and the 3d assets be usable and seamless.
-In order to do so, 
-  - We have decided to create an API that allows any metaverse platform to integrate it within their platform and the user can seamlesly access their wearables that are part of the another environment
-  - The API actually links a NFT to multiple supported 3d files and it retrieves these files based on the request from the metaverse platorm. This will pave way for the single wearables to be used across multiple metaverse platforms
+  **3d:** Deploy collections for more platforms
   
-### Achievement: 
-So far we have collaborated with megaverse which is on the polygon blockchain and deployed our metadrip collection on the platform using our API to directly verify NFT holders on the platform and seamlessly use our wearables for their avatars directly on connecting their wallets.
+  **Tech:** To align with stage 2 of interoperability
+  
+    We have decided to create an API that allows any metaverse platform to integrate it within their platform and the user can seamlesly access their wearables that are part of the another environment
+    The API actually links a NFT to multiple supported 3d files and it retrieves these files based on the request from the metaverse platorm. This will pave way for the single wearables to be used across multiple metaverse platforms
+    
+  In order to do so, 
+  
+   - Collaborate with metaverse platforms and integrate API’s 
+    
+   - Work with forums such as ‘Metaverse Standard Forum’ to align with standards, research work from industry leaders
+    
+### Work:
 
-You can read more about our API [Here](https://)
-You can view the megaverse project and know more [here](https://)
+  **Tech:** Case study
+  
+   We have collaborated with megaverse which is on the polygon blockchain and deployed our metadrip collection on the platform using our API to directly verify NFT holders on the platform and seamlessly use our wearables for their avatars directly on connecting their wallets.
+
+You can read more about our API [Here](https://github.com/xrcouture/metadrip/blob/main/APIdocs.md)
+
+You can view the megaverse project and know more [here]
+
+### Learnings:
+
+  To solve the problem of repetitive work for the 3d creation process, we realized there should be an easy fitting tool where different avatar types can be dressed with any wearable
+
+  This led us to experiment with creating an easy wearable editor for VRM and GLTF avatars.
+
+  We want a simple drag and drop interface that allows users to upload any avatar and dress it with our wearables.
+
+  We’ve started the development with support for Clonex avatars.Eventually we plan on adding support for multiple body types
+  
+  [You can learn more about it here](https://)
+   
 
 ---
 
