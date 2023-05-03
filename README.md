@@ -59,19 +59,19 @@ Our experiments and projects are for the greater goal of interoperable fashion i
     <img src="https://user-images.githubusercontent.com/122074866/235868988-a09e37fa-67df-45e6-831d-11b821b8b25b.png"/>
   </div>
   
-  - **Metadrip** - A wearable NFT collection that can currently be used across 6 platforms. We unlock interoperability through experimentation
+  - **Metadrip** - A wearable NFT collection that can currently be used across 6 platforms. We unlock interoperability through experimentation. Explore [here](https://github.com/xrcouture/metadrip/blob/main/Metadrip.md)
   
     <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878287-4c0d8575-7abe-4708-afbb-f865e2c5a8f6.png" width="auto" height="20%"/>
   </div>
   
-  - **WRBL** - Easy 3d garment creation service for multiple platforms
+  - **WRBL** - Easy 3d garment creation service for multiple platforms. Explore [here](https://github.com/xrcouture/metadrip/blob/main/WRBL.md)
   
     <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878610-adcb9a3b-58e0-4e77-b25f-a2111efaed93.png" width="auto" height="20%"/>
   </div>
   
-  - **Clonex Dresser** - A simple click to dress tool that we are building for the Clonex holders and later many more avatar types
+  - **Clonex Dresser** - A simple click to dress tool that we are building for the Clonex holders and later many more avatar types. Explore [here](https://github.com/xrcouture/metadrip/blob/main/CloneX_Dresser.md)
   
    <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878778-316d1519-0640-4bf4-9797-f6e56d6fc2b4.png" width="auto" height="20%"/>
