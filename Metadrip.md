@@ -179,32 +179,32 @@ You can view the megaverse project and know more [here]
 
 ## Metadrip 3.0 <img src="https://img.shields.io/static/v1?label=&message=Brainstorming&color=orange"> 
 
-### Goal: 
+### Goal:  To align ourselves with stage 3 of interoperability
 
-To solve for 3d artists
-Create a system/ tool /standard where an asset needs to only be created once and then can be taken into different platforms.
-
-### Ideas:
-
-  The creation of 3d assets is time consuming, mostly repetitive when done for different platforms. We hope to ease this process for the creators so the community can grow as a whole. 
+  **3d and Tech:** Create/align with a system/ tool /standard where an asset needs to only be created once and then can be taken into different platforms.
   
-  If we just brainstorm on what the solution could look like , these 2 roadmaps seem to emerge broadly. We think the solution largely would be a combination of both.
+### Ideas:	
+
+   If we just brainstorm on what a truly interoperable solution could look like , the below mentioned 2 solutions seem to emerge broadly. We think the solution largely would be a combination of both
   
 
-**A]**  A tool that understand the way each platform avatar works and categorize them on the basis of mesh/voxel/sprite sheet/2d
-  - That can efficiently read different body type standards from different platforms and deform the 3d asset according to those body types while automatically rigging and skinning the asset according to the shape and proximity of the wearable meshes from the rig.
+**A]** A tool 
+
+That understand the way each platform avatar works and categorize them on the basis of mesh/voxel/sprite sheet/2d
+
+That can efficiently read different body type standards from different platforms and deform the 3d asset according to those body types while automatically rigging and skinning the asset according to the shape and proximity of the wearable meshes from the rig.
 
 Some tools with interesting workflows in this context:
 
-[Auto fitting capabilities in marvelous designer](https://)
+[Auto fitting capabilities in marvelous designer](https://support.marvelousdesigner.com/hc/en-us/articles/900004342823-Auto-Fitting)
  
 <img src="https://user-images.githubusercontent.com/122074866/235134913-07d3fa80-8a77-4b5c-a9e4-6e8a6ca7a108.png" width="100%"/>
  
-[Layered clothing concepts from Roblox](https://)
+[Layered clothing concepts from Roblox](https://create.roblox.com/docs/resources/beyond-the-dark/layered-clothing)
  
 <img src="https://user-images.githubusercontent.com/122074866/235135355-18560dd3-be3b-4e66-af55-dc30866370bd.png" width="100%"/>
  
-[Voxel heat diffused skinning plugin in blender](https://)
+[Voxel heat diffused skinning plugin in blender](https://blendermarket.com/products/voxel-heat-diffuse-skinning)
  
 <img src="https://user-images.githubusercontent.com/122074866/235135527-9575debd-7684-42c6-9e45-b52c3ebe7d01.png" width="100%"/>
 
@@ -216,9 +216,7 @@ Some tools with interesting workflows in this context:
 
 Something like this will cover the bare basics of creating a 3d wearable asset for different avatars across platforms. But with NFT’s there is an added layer of rarity that in a lot of cases is powered by certain capabilities in games- like a wearable that allows you to fly in one metaverse might need an equivalent capability in another.
 
-Also with AI and tech continuously advancing, if we were to think about how wearables in the future would look like, It’s interesting to imagine concepts on how interactions in the metaverse would function and what it may look like. For example emotion dependent visual effects with wearables.
-
-[Here’s a small discussion where we’ve visualized  how a wearable of the future might  look like and the capabilities it might have](https://)
+[We’ve visualized  how a wearable of the future might  look like and the capabilities it might have](https://)
 
 
 
