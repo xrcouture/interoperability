@@ -3,12 +3,13 @@
 <img src="https://user-images.githubusercontent.com/122074866/235122574-f97ea968-7290-4959-816e-8d3c8b4d156a.png" width="100%"/>
 
 ## What is Meta Drip?
-A collection of 12 designs created by independent artists using different softwares and design principles. Each design has unique attributes/properties from material type, pattern style, silhouette and more.
-The collection was created with an aim to make it accessible in as many web2 and web3 platforms as possible and give its NFT holders exclusive access.
+  - A collection of 12 designs created by independent artists using different softwares and design principles. 
+  - Each design explores unique attributes/properties from material type, pattern style, silhouette and more.
+  - The collection was created to make it accessible in as many web2 and web3 platforms as possible and give its NFT holders exclusive access.
 
 [You can check the live collection here!](https://metadrip.xrcouture.com) 
 
-[You can check the 3d technical process here](https://metadrip.xrcouture.com)
+[You can check the 3d technical process here](https://)
 
 Current distribution of Meta Drip
 
@@ -22,7 +23,8 @@ Available = 49 NFTs
 
 ## Why Metadrip
 
-We wanted to start with a small collection to explore designs that are challenging and different in texture, material, shape and form. We wanted  to see how closely this type of a collection can be created for different platforms while maintaining the fidelity and feel of the original to whatever possible extent.
+We started with 12 wearables to explore challenging designs in texture, material, shape and form.
+We wanted to see how closely this type of a collection can be created for different platforms while maintaining the fidelity and feel of the original.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/122074866/235295855-596e84f8-033a-4a63-9fe6-6e9744bd918b.gif" width="auto" height="40%"/>
@@ -32,69 +34,104 @@ We wanted to start with a small collection to explore designs that are challengi
 
 ## Our Goal
 
-We look at this project as an experimental collection to explore all possible avenues of creating an interoperable wearable that can seamlessly be taken into different metaverses along with all the traits, bells and whistles that the original NFT would promise. 
-We are exploring different workflows and integrations to make the best use of current systems and also explore the development of better and easier systems of working for both the creators and the users.
+  - To create a wearable that can seamlessly be taken into different metaverses along with all the traits, bells and whistles that the original NFT would promise.
+  - Explore different workflows and integrations to make the best use of current NFT verification systems.
+  - Develop better and easier systems of working for both the creators and the platforms.
+
 
 ---
 
 ## Metadrip roadmap:
 
-Keeping in mind the technical constraints and challenges of what is possible today versus what might be possible tomorrow, we’ve divided our roadmap into three milestones.
+We’ve divided our roadmap into three milestones:
 
 ---
 
 ## Metadrip 1.0 <img src="https://img.shields.io/static/v1?label=&message=Completed&color=green">
 <img src="https://user-images.githubusercontent.com/122074866/235123629-678d42e9-a94a-4e42-9236-a7917f701c7c.png" width="100%"/>
 
-### Goal: To solve for users
+### Goal: To be Aligned with stage 1 of interoperability mentioned here(Section Link)
+
+  **3d:** To upload wearables in different web 2 and web 3 platforms and make it accessible to the users easily. 
+
+  **Tech:** To allow claiming and airdrops for wearables using private access links for the NFT holders. 
+
+### Work: 
+
+**3d side:**
+
+  **A]** Deployed a collection of 12 wearable NFT’s and released it to the public for minting and added in utilities and deployed the collection for compatibility with platforms like: 
   
-  Offer an interoperable wearable to the user where they can explore a cohesive identity across multiple metaverses and take their assets across platforms
+    1. Decentraland
+    
+    2. Snapchat AR
+    
+    3. Zepeto
+    
+    4.Clonex
 
-### Achievement
-
-**A]** We successfully deployed a collection of 12 wearable NFT’s and released it to the public for minting. 
-
-Added in utilities and deployed the collection for compatibility with platforms like: 
-  1) Decentraland
-  2) Snapchat AR
-  3) Zepeto
-  4) Minecraft
-  5) Megaverse
-  6) Clonex
-  7) Ovr
+  And created for other platforms like:
   
-And created for other platforms like:
-  1) Roblox
-  2) Sandbox
-  3) Zepeto
-  4) Minecraft
-  5) Monaverse
-  6) Megaverse
-  7) Vroid VRM
-  8) Clonex
-  9) Metahuman
+    1. Roblox
+    
+    2. Sandbox
+    
+    3. Zepeto
+    
+    4. Minecraft
+    
+    5. Monaverse
+    
+    6.  Megaverse
+    
+    7. Vroid VRM
+    
+    8. Clonex
+    
+    9. Metahuman
+    
+    10. Minecraft
+    
+    11. OVR
+
 
 <img src="https://user-images.githubusercontent.com/122074866/235130642-43a1e6fe-ec49-4653-b191-d3cc63e4e9e5.png" width="100%"/>
+
 We’ve documented all the technical aspects of creating 3d wearable [here](https://)
 
 
-**B]** We’ve tried to use each platform's unique capabilities to enhance the experience of using the wearable natively in that platform. 
-For example- We’ve added blinking lights using shader manipulations in Lens studio to create a more vivid experience for snapchat users to try on the Dazzling devil wearable
+  **B]** Used each platform's unique capabilities to enhance the experience
+  
+  For example- Adding interactions to activate an animation in snapchat for the cosmic boom wearable, using pose detection.
+
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/122074866/235297493-210fcf60-c39c-4cdd-ac0b-175d0530836c.gif" width="auto" height="40%"/>
+  <img src="https://user-images.githubusercontent.com/122074866/235889691-cb34690b-8914-427c-af28-c919d8f2ba82.gif" width="auto" height="40%"/>
 </div>
 
-See how one wearable looks when taken different platforms [here](https://)
-See the process of creating for different AR platforms [here](https://)
 
-**C]** We’ve researched and successfully deployed linked wearables through API’s provided by Decentraland and OVR and have started exploring other ways to create a seamless verification process for NFT holder’s 
+  one wearable when taken into different platforms [here](https://)  
+
+  Process of creating for different AR platforms [here](https://)
+
+  **Tech side:**
+  
+  **A]** We’ve airdropped wearables with a private link for accessing snapchat AR wearables
+  
+  **B]** We’ve created a widget integration for accessing 3d wearables on other platforms
+  [Learn more here](https://)
+
  
 ### Learnings: 
   - Creating 3d assets which are compatible for various platforms is a time consuming and tedious process
     [We’ve drawn a more streamlined process for creating 3d assets here](https://)
+
+
   - Verification methods for an ownership of an NFT on different platforms is clunky since all platforms function on different blockchains
-  - Integrations with different platforms requires an API – which in most cases metaverses currently don't provide
+  - Integrations with different platforms requires some kind of an API which allows us to do so – which in most cases metaverses currently don't provide
+  - There are a bunch of constraints in creating wearables for different platform
+  - Some platforms like Roblox and Sandbox require a type of a creator pass or a UGC pass. 
+  - These passes are not easy to get for all creators/studios. Hence we  believe the answer lies in open UGC opportunities.
   
 ---
 
