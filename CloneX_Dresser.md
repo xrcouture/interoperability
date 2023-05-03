@@ -26,14 +26,15 @@ We want a simple drag and drop interface that allows users to upload any avatar 
 
 We’ve started the development with support for Clonex avatars.Eventually we plan on adding support for multiple body types
 
-## V1: 
+## V1:  <img src="https://img.shields.io/static/v1?label=&message=In Development &color=yellow"> 
 
 User flow:
 <img src="https://user-images.githubusercontent.com/122074866/235887590-fe929894-7cdc-4424-90cb-32763c9810bf.png"/>
 
 Ability to import your clonex and dress them with any of the metadrip wearables -- screenshots of in dev process
 Capabilities of exporting with VRM files
-## V2: 
+
+## V2: <img src="https://img.shields.io/static/v1?label=&message=Brainstorming &color=orange"> 
 
 User flow:
 <img src="https://user-images.githubusercontent.com/122074866/235888906-edcae8af-ff75-4e00-9b3e-6d93ca2e0c72.png"/>
@@ -42,7 +43,8 @@ Ability to create your own wearables easily and add it to your clonex
 Deploy as an NFT with all supported formats as linked utilities
 An open marketplace that enables creators to collaborate and create for various NFT's with linked utilities and export capabilities
 (integrated with WRBL project- [Click here to know more](https://))
-## V3: 
+
+## V3: <img src="https://img.shields.io/static/v1?label=&message=Brainstorming &color=orange"> 
 
 User flow:
 <img src="https://user-images.githubusercontent.com/122074866/235889238-3a2d13bc-5de2-45de-a640-885bcff1a796.png"/>
@@ -52,6 +54,5 @@ Easy integration with other possible NFT collections that have 3d avatars.
 
 
 ## Resources:
-## [Open source tool](https://)
 ## [WRBL Project](https://)
 
