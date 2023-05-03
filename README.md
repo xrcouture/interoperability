@@ -49,7 +49,6 @@ seamless exchange of information on their assets where users can move smoothly f
 
 ## 🗺️ Our Projects and Roadmap
 
-All our experiments and projects are for the greater goal of exploring that aspect and further developing it. We've shared some of our findings and research through some of our projects here
 
 Our experiments and projects are for the greater goal of interoperable fashion in the metaverse. We’ve shared our findings and research through some of our projects such as:
 
