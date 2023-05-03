@@ -58,7 +58,7 @@ Our experiments and projects are for the greater goal of interoperable fashion i
     <img src="https://user-images.githubusercontent.com/122074866/235868988-a09e37fa-67df-45e6-831d-11b821b8b25b.png"/>
   </div>
   
-  - **Metadrip** - A wearable NFT collection that can currently be used across 6 platforms. We unlock interoperability through experimentation. Explore [here](https://github.com/xrcouture/metadrip/blob/main/Metadrip.md)
+  - **Metadrip** - A wearable NFT collection that can currently be used across 4 platforms. We unlock interoperability through experimentation. Explore [here](https://github.com/xrcouture/metadrip/blob/main/Metadrip.md)
   
     <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878287-4c0d8575-7abe-4708-afbb-f865e2c5a8f6.png" width="auto" height="20%"/>
@@ -82,7 +82,7 @@ Our experiments and projects are for the greater goal of interoperable fashion i
 
 ## 🌐 Community and growth
 
-Creators and developers are the pillars for realizing the metaverse, that’s why we love spending a little time in growing the community and nurturing new talent- 
+Creators and developers are the pillars for realizing the metaverse, that’s why we love spending time in growing the community and nurturing new talent- 
 
 Workshop series conducted for creating digital wearables for the metaverse covering topics like garment creation using softwares like Clo3d/Marvelous designer and the entire process for creating game-ready assets for the metaverse
 
