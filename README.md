@@ -36,10 +36,15 @@ We aim to
 
 We define interoperability in 3 stages:
 
-  1. **Airdrops/Linked wearables:** Assets/NFT’s like wearables can be bought and used in as many platforms possible using connected airdrops for NFT’s
-  2. **API Integration:** API that works with multiple metaverse platforms allowing
+  ### 1. Airdrops/Linked wearables: 
+  Assets/NFT’s like wearables can be bought and used in as many platforms possible using connected airdrops for NFT’s
+      
+  ### 2. API Integration:
+  API that works with multiple metaverse platforms allowing
 seamless exchange of information on their assets where users can move smoothly from one virtual world to another
-  3. **Open Standards:** Universal Standards & Open-Source Technology implementation
+
+  ### 3. Open Standards: 
+  Universal Standards & Open-Source Technology implementation
 
 ---
 
@@ -52,31 +57,35 @@ seamless exchange of information on their assets where users can move smoothly f
 
 Our experiments and projects are for the greater goal of interoperable fashion in the metaverse. We’ve shared our findings and research through some of our projects such as:
 
-  - **Virtual try ons** - A collection of 3d garments that anyone can virtually try on their photographs
+  - ### Virtual try ons 
+    - A collection of 3d garments that anyone can virtually try on their photographs
   
   <div align="center">
     <img src="https://user-images.githubusercontent.com/122074866/235868988-a09e37fa-67df-45e6-831d-11b821b8b25b.png"/>
   </div>
   
-  - **Metadrip** - A wearable NFT collection that can currently be used across 4 platforms. We unlock interoperability through experimentation. Explore [here](https://github.com/xrcouture/metadrip/blob/main/Metadrip.md)
-  
+  - ### Metadrip
+    - A wearable NFT collection that can currently be used across 4 platforms. We unlock interoperability through experimentation. Explore [here](https://github.com/xrcouture/interoperability/blob/main/Metadrip.md)
+    
     <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878287-4c0d8575-7abe-4708-afbb-f865e2c5a8f6.png" width="auto" height="20%"/>
   </div>
   
-  - **WRBL** - Easy 3d garment creation service for multiple platforms. Explore [here](https://github.com/xrcouture/metadrip/blob/main/WRBL.md)
-  
+  - ### WRBL 
+    - Easy 3d garment creation service for multiple platforms. Explore [here](https://github.com/xrcouture/interoperability/blob/main/WRBL.md)
+    
     <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878610-adcb9a3b-58e0-4e77-b25f-a2111efaed93.png" width="auto" height="20%"/>
   </div>
   
-  - **Clonex Dresser** - A simple click to dress tool that we are building for the Clonex holders and later many more avatar types. Explore [here](https://github.com/xrcouture/metadrip/blob/main/CloneX_Dresser.md)
+  - ### Clonex Dresser 
+    - A simple click to dress tool that we are building for the Clonex holders and later many more avatar types. Explore [here](https://github.com/xrcouture/interoperability/blob/main/CloneX_Dresser.md)
   
    <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878778-316d1519-0640-4bf4-9797-f6e56d6fc2b4.png" width="auto" height="20%"/>
   </div>
   
- Please feel free to explore our projects and get in touch if you have any questions. [Our Projects](https://)
+ Please feel free to explore our projects and get in touch if you have any questions. [Contact Us](https:mailto:hello@xrcouture.com)
 
 ---
 
