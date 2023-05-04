@@ -189,27 +189,29 @@ We’ve divided our roadmap into three milestones:
 ### 3d and Tech
 
   **Goal:**
-    - To align ourselves with [stage 3](https://github.com/xrcouture/interoperability#3-open-standards) of interoperability.
-    - Create/align with a system/ tool /standard where an asset needs to only be created once and then can be taken into different platforms.
+  
+   - To align ourselves with [stage 3](https://github.com/xrcouture/interoperability#3-open-standards) of interoperability.
+   - Create/align with a system/ tool /standard where an asset needs to only be created once and then can be taken into different platforms.
   
   **Ideas:**	
+  
 
    If we just brainstorm on what a truly interoperable solution could look like , the below mentioned 2 solutions seem to emerge broadly. We think the solution largely would be a combination of both
   
 
-**A]** A tool 
+**A] A tool** 
 
 That understand the way each platform avatar works and categorize them on the basis of mesh/voxel/sprite sheet/2d
 
-That can efficiently read different body type standards from different platforms and deform the 3d asset according to those body types while automatically rigging and skinning the asset according to the shape and proximity of the wearable meshes from the rig.
+  - That can efficiently read different body type standards from different platforms and deform the 3d asset according to those body types while automatically rigging and skinning the asset according to the shape and proximity of the wearable meshes from the rig.
 
-Some tools with interesting workflows in this context:
+  - Some tools with interesting workflows in this context:
 
-[Auto fitting capabilities in marvelous designer](https://support.marvelousdesigner.com/hc/en-us/articles/900004342823-Auto-Fitting)
+  [Auto fitting capabilities in marvelous designer](https://support.marvelousdesigner.com/hc/en-us/articles/900004342823-Auto-Fitting)
  
 <img src="https://user-images.githubusercontent.com/122074866/235134913-07d3fa80-8a77-4b5c-a9e4-6e8a6ca7a108.png" width="100%"/>
  
-[Layered clothing concepts from Roblox](https://create.roblox.com/docs/resources/beyond-the-dark/layered-clothing)
+ [Layered clothing concepts from Roblox](https://create.roblox.com/docs/resources/beyond-the-dark/layered-clothing)
  
 <img src="https://user-images.githubusercontent.com/122074866/235135355-18560dd3-be3b-4e66-af55-dc30866370bd.png" width="100%"/>
  
@@ -229,7 +231,9 @@ Something like this will cover the bare basics of creating a 3d wearable asset f
 
 
 
-**B]** The second solution can be a filetype which can be a standardized solution across all metaverses such a filetype may bake in all the necessary information that the asset might need to function well in any platform, including all the metadata it needs to be compatible and make use of all the features native to that platform.
+**B] Universal standards** 
+
+The second solution can be a filetype which can be a standardized solution across all metaverses such a filetype may bake in all the necessary information that the asset might need to function well in any platform, including all the metadata it needs to be compatible and make use of all the features native to that platform.
 
 
 We have seen VRM as a very versatile format in this regard since it allows the users to add in a lot of interesting features/ interactions to the avatars like- deform bones, particle effects as well as blendshapes, etc. 
@@ -242,7 +246,7 @@ We have seen VRM as a very versatile format in this regard since it allows the u
 
 But the major constraint here is that it is an avatar standard and does not allow easy customizability for the outfit/skin color/hair etc.
 
-There are a lot of easy creator tools that have simplified the process of creating VRM’s like VROID, but are very limited and still not as intuitive for any average user.
+There are a lot of easy creator tools that have simplified the process of creating VRM’s like [VROID](https://vroid.com/en/studio), but are very limited and still not as intuitive for any average user.
 
 [You can view some of our experiments where we take one VRM avatar and explore how it can be taken across platforms](https://)
 
@@ -262,7 +266,12 @@ We’ve started the development with support for Clonex avatars.Eventually we pl
 
 ---
 
-## How to contribute: 
+## How to contribute:
+
+  - Build 3d assets with us
+  - Learn 3d tools with us
+  - Metaverse platforms can Link API 
+  - Test the wearables
 
 
 
