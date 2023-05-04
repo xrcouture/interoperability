@@ -48,19 +48,18 @@ We’ve divided our roadmap into three milestones:
 ---
 
 ## Metadrip 1.0 <img src="https://img.shields.io/static/v1?label=&message=Completed&color=green">
-<img src="https://user-images.githubusercontent.com/122074866/235123629-678d42e9-a94a-4e42-9236-a7917f701c7c.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/122074866/236194967-d1f854f2-e0fd-4478-8344-41eb2698a688.png" width="100%"/>
 
-### Goal: To be Aligned with stage 1 of interoperability mentioned [here](https://github.com/xrcouture/interoperability#1-airdropslinked-wearables)
+### 3d Side
 
-  **3d:** To upload wearables in different web 2 and web 3 platforms and make it accessible to the users easily. 
-
-  **Tech:** To allow claiming and airdrops for wearables using private access links for the NFT holders. 
-
-### Work: 
-
-**3d side:**
-
-  **A]** Deployed a collection of 12 wearable NFT’s and released it to the public for minting and added in utilities and deployed the collection for compatibility with platforms like: 
+  **Goal**
+   - To be Aligned with stage 1 of interoperability mentioned [here](https://github.com/xrcouture/interoperability#1-airdropslinked-wearables)
+    
+   - To create wearables for different metaverse platforms and discover new tools and avenues for streamlining the process
+    
+  **Work**
+  
+   - Deployed a collection of 12 wearable NFT’s and released it to the public for minting and added in utilities and deployed the collection for compatibility with platforms like: 
   
     1. Decentraland
     
@@ -70,7 +69,7 @@ We’ve divided our roadmap into three milestones:
     
     4. Clonex
 
-  And created for other platforms like:
+   - And created for other platforms like:
   
     1. Roblox
     
@@ -95,43 +94,60 @@ We’ve divided our roadmap into three milestones:
     11. OVR
 
 
-<img src="https://user-images.githubusercontent.com/122074866/235130642-43a1e6fe-ec49-4653-b191-d3cc63e4e9e5.png" width="100%"/>
+   <img src="https://user-images.githubusercontent.com/122074866/235130642-43a1e6fe-ec49-4653-b191-d3cc63e4e9e5.png" width="100%"/>
 
-We’ve documented all the technical aspects of creating 3d wearable [here](https://)
+   - We’ve documented all the technical aspects of creating 3d wearable [here](https://)
 
 
-  **B]** Used each platform's unique capabilities to enhance the experience
+  - Used each platform's unique capabilities to enhance the experience
   
-  For example- Adding interactions to activate an animation in snapchat for the cosmic boom wearable, using pose detection.
+  - **For example:** Adding interactions to activate an animation in snapchat for the cosmic boom wearable, using pose detection.
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/122074866/235889691-cb34690b-8914-427c-af28-c919d8f2ba82.gif" width="auto" height="40%"/>
-</div>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/122074866/235889691-cb34690b-8914-427c-af28-c919d8f2ba82.gif" width="auto" height="40%"/>
+  </div>
 
 
-  one wearable when taken into different platforms [here](https://)  
+  - one wearable when taken into different platforms [here](https://)  
 
-  Process of creating for different AR platforms [here](https://)
+  - Process of creating for different AR platforms [here](https://)
 
-  **Tech side:**
+
+### Learnings:
+
+  - Creating 3d assets which are compatible for various platforms is a time consuming and tedious process. 
+  [We’ve drawn a more streamlined process for creating 3d assets here](https://)
   
-  **A]** We’ve airdropped wearables with a private link for accessing snapchat AR wearables
-  
-  **B]** We’ve created a widget integration for accessing 3d wearables on other platforms
-  [Learn more here](https://)
-
+  - There are a bunch of constraints in creating wearables for different platform
+    Some platforms like Roblox and Sandbox require a type of a creator pass or a UGC pass. 
+    These passes are not easy to get for all creators/studios. Hence we  believe the answer lies in open UGC opportunities.
+    
  
-### Learnings: 
-  - Creating 3d assets which are compatible for various platforms is a time consuming and tedious process
-    [We’ve drawn a more streamlined process for creating 3d assets here](https://)
+ ### Tech Side
+ 
+  **Goal:**
+  
+   - To upload wearables in different web 2 and web 3 platforms and make it accessible to the users easily.
+   - To allow claiming and airdrops for wearables using private access links for the NFT holders.
+
+  **Work:** 
+  
+  - We’ve airdropped wearables with a private link for accessing snapchat AR wearables
+  - We’ve created a widget integration for accessing 3d wearables on other platforms
+  - The users can use the widget to claim Decentraland Wearables by a single click
+  - The wearables can also be used as AR snapchat filters by scanning the QR code available on the widget
+  - The widget also allows the user to use virtual fittings by uploading their photo
+  - The user can also download the 3d files of these wearables
 
 
+  **Learnings:**
+  
   - Verification methods for an ownership of an NFT on different platforms is clunky since all platforms function on different blockchains
   - Integrations with different platforms requires some kind of an API which allows us to do so – which in most cases metaverses currently don't provide
-  - There are a bunch of constraints in creating wearables for different platform
-  - Some platforms like Roblox and Sandbox require a type of a creator pass or a UGC pass. 
-  - These passes are not easy to get for all creators/studios. Hence we  believe the answer lies in open UGC opportunities.
+  - It is not easy to use linked wearables as it requires approval from the community for each collection
+  - The wearables or asset cannot be sold in our own platform or marketplace
+
   
 ---
 
