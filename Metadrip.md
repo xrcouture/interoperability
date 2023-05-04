@@ -186,11 +186,13 @@ We’ve divided our roadmap into three milestones:
 
 ## Metadrip 3.0 <img src="https://img.shields.io/static/v1?label=&message=Brainstorming&color=orange"> 
 
-### Goal:  To align ourselves with stage 3 of interoperability
+### 3d and Tech
 
-  **3d and Tech:** Create/align with a system/ tool /standard where an asset needs to only be created once and then can be taken into different platforms.
+  **Goal:**
+    - To align ourselves with [stage 3](https://github.com/xrcouture/interoperability#3-open-standards) of interoperability.
+    - Create/align with a system/ tool /standard where an asset needs to only be created once and then can be taken into different platforms.
   
-### Ideas:	
+  **Ideas:**	
 
    If we just brainstorm on what a truly interoperable solution could look like , the below mentioned 2 solutions seem to emerge broadly. We think the solution largely would be a combination of both
   
