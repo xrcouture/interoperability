@@ -11,14 +11,6 @@
 
 [You can check the 3d technical process here](https://)
 
-Current distribution of Meta Drip
-
-12 designs x 10 supply = **120 NFTs**
-
-Minted = 71 NFTs
-
-Available = 49 NFTs
-
 ---
 
 ## Why Metadrip
@@ -109,9 +101,9 @@ We’ve divided our roadmap into three milestones:
   </div>
 
 
-  - one wearable when taken into different platforms [here](https://)  
+  - one wearable when taken into different platforms [here](https://github.com/xrcouture/interoperability/blob/main/walkInOneWearable.md)  
 
-  - Process of creating for different AR platforms [here](https://)
+  - Process of creating for different AR platforms [here](https://github.com/xrcouture/interoperability/blob/main/ARWearables.md)
 
 
  **Learnings:**
