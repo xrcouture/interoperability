@@ -19,7 +19,9 @@ To achieve interoperability of digital fashions wearables across web2 and web3 p
 ---
 
 ## Why 
-  This API largely solves the problem of interoperability. It connects multiple platforms together and allow them to access each other wearables. This serves as an entry to the "Open Metaverse".
+  This API largely solves the problem of interoperability. It connects multiple platforms together and allow them to access each other wearables. 
+  Makes more user to explore the platform where they can use their existing wearables.
+  This serves as an entry to the "Open Metaverse". 
 
 ---
 
@@ -42,14 +44,18 @@ It is not possible to transfer ownership of a wearable for one particular platfo
 
   Any Metaverse / Web2 platform that want to support interoperable digital fashion assets can start using this API. You can straightaway use this api, if your wearables 3d specifications matches any of the above supported platform. If not, we can customize the 3d files for your specifications
   
+---
+  
 ## Supported integrations
   There are two ways by which the metaverse platforms can integrate their platform with XRC
   - REST API (Web2 and Web3)
   - Unity SDK
 
-## REST API
+---
 
-  The platforms will be provided with a REST API and these platforms can use it to retrieve the wearables/digital fashion asset and show it in their own marketplace or under users profile in the metaverse. We are also working on a Unity based SDK that can be directly integrated within the environment
+## REST API (Web3)
+
+  The platforms will be provided with a REST API and these platforms can be used to retrieve the wearables/digital fashion asset and show it in their own marketplace or under users profile in the metaverse.
   
   
 <div align="center">
@@ -68,17 +74,17 @@ It is not possible to transfer ownership of a wearable for one particular platfo
   
   where,
   
-   {apikey} => unique key to access the api
+   - {apikey} => unique key to access the api
     
-   {platformName} => platformName from the list of supported platforms mentioned below in the document
+   - {platformName} => platformName from the list of supported platforms mentioned below in the document
    
-   {walletAddress} => wallet address of the owner of the metadrip collection
+   - {walletAddress} => wallet address of the owner of the metadrip collection
 
   Example
 
   https://api.model.metadrip.xrcouture.com/web3/v1/xrc-abcdefghijklmnopqrst/platform/decentraland/address/0xcd8c097cC2331EeF50074bf69F7eD26e7896D48b
 
-# Response
+### Response
 The response to this request will in Json format
 
 
@@ -109,8 +115,59 @@ The response to this request will in Json format
 5) Roblox
 6) Sandbox
 
+## REST API (Web2)
 
-### Web2
+  The web2 platforms will be provided with a REST API and these platforms can pass the users email address in the API to get the users assets
+  
+### Format
+  
+  The API request should be in below format
+
+  <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web2/v1/{apikey}/platform/{platformName}/email/{emailAddress}
+  
+  where,
+  
+   - {apikey} => unique key to access the api
+    
+   - {platformName} => platformName from the list of supported platforms mentioned below in the document
+   
+   - {emailAddress} => email address of the user who owns the asset
+
+  Example
+
+  https://api.model.metadrip.xrcouture.com/web2/v1/xrc-abcdefghijklmnopqrst/platform/decentraland/email/abc@xyz.com
+  
+  ### Response
+The response to this request will in Json format
+
+
+  ```json
+  [
+    {
+      "name": "Dazzling Devil",
+      "description": "Straight from the streets of LA, the mind-blowing outfit by Lucii is ready to give your virtual closet a blend of futuristic and gala vibes. The multi-colored flashlights, the leather finesse, and the ‘ready-to-rock’ boots underline the designer’s cutting-edge creativity and imagination. Be the multi-hued spotlight in the Metaverse!",
+      "image": "https://nft.xrcouture.com/artgallery/phase2/Lucii/3.png",
+      "animation_url": "ipfs://bafybeieqtrzqyk4nawljawdgd5vfmv5wtcnmfxewlyanznvyecltdrb47q",
+      "id": {
+        "platform": "roblox",
+        "email": "abc@xyz.com"
+      },
+      "wearables": "https://metadrip.xrcouture.com/*******/*********/Dazzling_Devil_DCL.glb",
+      "category": "Upper Body"
+    }
+  ]
+  ```
+  
+## Supported Platforms
+
+1) Zepeto
+2) Roblox
+  
+
+## Unity SDK
+
+  We are also working on a Unity SDK, that can be imported into the environment. To know more about this, [contact us](mailto:hello@xrcouture.com)
+  
 
 
 
