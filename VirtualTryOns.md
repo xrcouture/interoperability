@@ -2,6 +2,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/122074866/235932493-87a52592-def9-4129-a257-639c90384f46.png"/>
+
 ## Virtual try ons
 
 
@@ -23,18 +24,24 @@ Here are some examples of our virtual fittings:
 ## Stepping Ahead
 
 Some of the designs were taken one step further by creating them for different platforms:
-One example;  we took Cristal trench and made a live AR experience to virtually try it on in real time. Here you can see both the original virtual try on and its enhanced experience below.
+          - One example;  we took Cristal trench and made a live AR experience to virtually try it on in real time. Here you can see both the original virtual try on and its enhanced experience below.
+
 <img src="https://user-images.githubusercontent.com/122074866/235931946-28db911f-5cfb-4973-851c-9dfd223c5b9d.png"/>
+
 <img src="https://user-images.githubusercontent.com/122074866/235932547-db7a4f6c-d2cd-4670-be86-405501b5e34f.gif"/>
+
+
 Try the filter here
 
 
 -Some of our other recent experiments also involve AI in creating virtual wearables 
+
 [Try it yourself](https://)
 
-<img src="https://user-images.githubusercontent.com/122074866/235932596-e717db2b-274b-4aab-864f-914b0e185c5b.png/>
+<img src="https://user-images.githubusercontent.com/122074866/235932596-e717db2b-274b-4aab-864f-914b0e185c5b.png"/>
 
 -2d AR Virtual fitting using snapchat
+
 [Try this](https://)
 
           
