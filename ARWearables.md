@@ -52,25 +52,33 @@ It is then taken into blender/ any 3d software for retopology and optimization. 
 
 Once the asset is created, we need to rig it using the simple [mixamo rig](https://www.mixamo.com/#/) (mixamo rig is compatible with Lens studio)
 
-<img src="https://user-images.githubusercontent.com/122074866/235945279-11d7b834-a465-4e4f-baeb-b9d43c2a35c1.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/235945279-11d7b834-a465-4e4f-baeb-b9d43c2a35c1.gif"/>
+</div>
 
 ## Posing:
-For snapchat, it’s best to pose around the given mannequin body size so the garment fits proportionally with the [occluders](https://) set up later.
+For snapchat, it’s best to pose around the given mannequin body size so the garment fits proportionally with the [occluders](https://docs.snap.com/lens-studio/references/guides/lens-features/graphics/materials/occluders#introduction) set up later.
 
-<img src="https://user-images.githubusercontent.com/122074866/235944977-94a7467b-bcae-485f-8e6a-810c94f8e538.png"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/235944977-94a7467b-bcae-485f-8e6a-810c94f8e538.png"/>
+</div>
 
-We need to align the bones to match the placement of the base mesh. And then we need to sculpt the garment mesh so that it doesn’t clip into the [Base mesh](https://).
+We need to align the bones to match the placement of the base mesh. And then we need to sculpt the garment mesh so that it doesn’t clip into the [Base mesh](https://docs.snap.com/lens-studio/references/guides/lens-features/tracking/body/preparing-external-mesh#preparing-the-mesh).
 
-<img src="https://user-images.githubusercontent.com/122074866/235945319-c444d8e7-173d-43b4-b4f0-25f1e6ef9985.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/235945319-c444d8e7-173d-43b4-b4f0-25f1e6ef9985.gif"/>
+</div>
+  
 The occluder base mesh can be edited a little depending on what areas the garment covers. 
 (for example the torso is covered by clothing so it doesn't make sense to add occluder underneath it.)
 
-
-<img src="https://user-images.githubusercontent.com/122074866/236392205-c9108438-a3e3-4b01-b7fe-77d9049930cc.png"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/236392205-c9108438-a3e3-4b01-b7fe-77d9049930cc.png"/>
+</div>
 
 
 After this the file can be exported as an FBX or a Gltf/ Glb since these formats work well for lens studio
-[Check out the exporting guide here](https://)
+[Check out the exporting guide here](https://docs.snap.com/lens-studio/references/guides/adding-content/3d/exporting-content/overview#introduction)
 
 ## Lens studio
 After it’s successfully exported, we can import it into Lens studio to set up the Lens.
@@ -81,16 +89,20 @@ After it’s successfully exported, we can import it into Lens studio to set up 
 Rig matching in lens studio (easily compatible with the mixamo rig).
 After placing the model in the body tracking component in the scene hierarchy and resizing the object scale, we can easily match the rig to the body tracking asset.-- It will then track the body and move well with our joints
 
-<img src="https://user-images.githubusercontent.com/122074866/236392036-35e2a1ac-6fda-4a69-9567-3d2d30e08c5a.png"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/236392036-35e2a1ac-6fda-4a69-9567-3d2d30e08c5a.png"/>
+</div>
 
 ## Occluder set up
 
 AR is usually a layer on top of the camera feed. In order for clothes to look realistic- we need to render the camera feed according to certain holes (like arm holes) in the mesh so that the back area is hidden. This is done through occluders.
-[Read more here](https://)
+[Read more here](https://docs.snap.com/lens-studio/references/guides/lens-features/graphics/materials/occluders#introduction)
 
 The areas highlighted in blue are the occluders
 
-<img src="https://user-images.githubusercontent.com/122074866/236392181-bbfbf749-045b-40bc-849b-d7a9873cfcbd.png"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/236392181-bbfbf749-045b-40bc-849b-d7a9873cfcbd.png"/>
+</div>
 
 ## Materials
 Some of the unique features in lens studio are the endless possibilities with shader manipulations. 
