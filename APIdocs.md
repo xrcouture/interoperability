@@ -156,12 +156,18 @@ The response to this request will in Json format
   
 ## Supported Platforms
 
-1) Decentraland
-2) Zepeto
-3) OVR
-4) Snapchat
-5) Roblox
-6) Sandbox  
+<div align="center">
+      <img src="https://media.discordapp.net/attachments/1103350204599640075/1103359216565100665/Group_6.png?width=1270&height=532">
+</div>
+
+  Below are the list of supported platforms for the metadrip collection
+
+    1) Decentraland
+    2) Zepeto
+    3) OVR
+    4) Snapchat
+    5) Roblox
+    6) Sandbox  
   
 
 
