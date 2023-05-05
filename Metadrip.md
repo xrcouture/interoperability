@@ -109,7 +109,10 @@ We’ve divided our roadmap into three milestones:
  **Learnings:**
 
   - Creating 3d assets which are compatible for various platforms is a time consuming and tedious process. 
-  [We’ve drawn a more streamlined process for creating 3d assets here](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md)
+  
+  We’ve drawn a more streamlined process for creating 3d assets
+  
+  https://user-images.githubusercontent.com/122074866/236478737-0e418885-424a-4a52-b00b-921f38ec83a8.mp4
   
   - There are a bunch of constraints in creating wearables for different platform
     Some platforms like Roblox and Sandbox require a type of a creator pass or a UGC pass. 
