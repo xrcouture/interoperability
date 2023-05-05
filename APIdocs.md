@@ -2,7 +2,10 @@
 
 Welcome to the documentation of the api that is used to achieve interoperability of digital fashion wearables across different platforms. This documentation is mainly focused on the existing metadrip NFT collection
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/122074866/234850975-50f66b94-4833-448f-8f58-0bc3f16a37aa.gif)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/234850975-50f66b94-4833-448f-8f58-0bc3f16a37aa.gif" width="auto"/>
+</div>
 
 ---
 
