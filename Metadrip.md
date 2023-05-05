@@ -105,7 +105,7 @@ We’ve divided our roadmap into three milestones:
 
 
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/122074866/235889691-cb34690b-8914-427c-af28-c919d8f2ba82.gif" width="auto" height="40%"/>
+    <img src="https://user-images.githubusercontent.com/122074866/235889691-cb34690b-8914-427c-af28-c919d8f2ba82.gif" width="auto"/>
   </div>
 
 
@@ -133,12 +133,16 @@ We’ve divided our roadmap into three milestones:
 
   **Work:** 
   
-  - We’ve airdropped wearables with a private link for accessing snapchat AR wearables
   - We’ve created a widget integration for accessing 3d wearables on other platforms
   - The users can use the widget to claim Decentraland Wearables by a single click
   - The wearables can also be used as AR snapchat filters by scanning the QR code available on the widget
-  - The widget also allows the user to use virtual fittings by uploading their photo
+  - The widget also allows the user to try virtual photoshoot by uploading their photo
   - The user can also download the 3d files of these wearables
+  
+  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/122074866/236372848-99ea9590-4e55-4362-b9a6-89f9628defac.png" width="auto" height="40%"/>
+  </div>
 
 
   **Learnings:**
