@@ -12,14 +12,20 @@ To achieve interoperability of digital fashions wearables across web2 and web3 p
 
 ---
 
-## 🔗 Web3 platforms
+## 🔗 Web2 and Web3 platforms
 
-  The platfroms allow their users to import their digital fashion wearables that are minted/created outside their environment to use it in their environment. The users can connect their wallet in these platforms and retrieve all their purchased NFTs
+  The platfroms allow their users to import the digital fashion wearables that are minted/created outside their environment to use it in their environment. The users can connect their wallet(web3) or email(web2) in these platforms and retrieve all their purchased NFTs. This solves the metaverse problem of interoperability. Also this approach connects web2 and web3 platforms together, which allow more web2 users onboarding to web3
+
+---
+
+## Why 
+  This API largely solves the problem of interoperability. It connects multiple platforms together and allow them to access each other wearables. This serves as an entry to the "Open Metaverse".
+
+---
+
+## What is the benefit of using the API
+  The API provides seamless and easy integration with the platforms. The API paves way to integrate your digital fashion wearables purchased from a marketplace or an in-Game purchase to be used across different platforms no matter about their formats. Both parties can be benfitied by this approach and it creates additional revenue flow
   
-## 🎮 Web2 platforms
-
-  The Web2 Games or platform also can allow their users to import their digital fashion wearables in to their environment. The users can connect using the email address to retrieve the assets that are linked to that particular email Id and use that in the environment  To know more about it. Book a demo with us
-
 ---
 
 ## 🖼️ Origin NFT
