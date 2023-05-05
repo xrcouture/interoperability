@@ -1,5 +1,8 @@
 ## Creating AR Wearables with snapchat
-<img src="https://user-images.githubusercontent.com/122074866/236392211-9c75a90c-b8c8-4d41-9ee6-1e58ff7e57c7.gif"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/236392211-9c75a90c-b8c8-4d41-9ee6-1e58ff7e57c7.gif"/>
+</div>
 
 ## Intro
 
@@ -13,7 +16,8 @@ Interactions in AR also play very differently as compared to games.Since the cam
 
 
 The process of creating an AR garment is largely dependent on the target platform.
-  - Some of them include: 
+
+Some of them include: 
   - Lens Studio (Snapchat)
   - Effect house(Tik Tok)
   - Meta Spark (Instagram)
@@ -25,8 +29,7 @@ Here we explore creating for the social AR platforms- snapchat since it allows f
 
 Here are some examples of AR Lenses we’ve created:
 
-<img src="https://user-images.githubusercontent.com/122074866/236392067-b02e0c00-093b-49e7-a1d1-f1f84151c3fa.gif"/>
-<img src="https://user-images.githubusercontent.com/122074866/235943537-021b382b-5995-4e16-a556-47d8c6fe9cf5.gif"/>
+<img src="https://user-images.githubusercontent.com/122074866/236392067-b02e0c00-093b-49e7-a1d1-f1f84151c3fa.gif" height=350/><img src="https://user-images.githubusercontent.com/122074866/235943537-021b382b-5995-4e16-a556-47d8c6fe9cf5.gif" height=350/>
 
 ## 3d Creation process (Lens Studio- snapchat)
 ## There are 2 ways in going about this-
@@ -47,7 +50,7 @@ It is then taken into blender/ any 3d software for retopology and optimization. 
 
 <img src="https://user-images.githubusercontent.com/122074866/235945231-0fe4ed17-153f-4e31-a953-53c6cd51a938.png"/>
 
-Once the asset is created, we need to rig it using the simple [mixamo rig](https://) (mixamo rig is compatible with Lens studio)
+Once the asset is created, we need to rig it using the simple [mixamo rig](https://www.mixamo.com/#/) (mixamo rig is compatible with Lens studio)
 
 <img src="https://user-images.githubusercontent.com/122074866/235945279-11d7b834-a465-4e4f-baeb-b9d43c2a35c1.gif"/>
 
