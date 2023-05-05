@@ -32,7 +32,7 @@ It is not possible to transfer ownership of a wearable for one particular platfo
 
 ---
 
-## API
+## REST API
 
   The platforms will be provided with a REST API and these platforms can use it to retrieve the wearables/digital fashion asset and show it in their own marketplace or under users profile in the metaverse. We are also working on a Unity based SDK that can be directly integrated within the environment
   
@@ -53,9 +53,23 @@ https://api.model.metadrip.xrcouture.com/web3/v1/xrc-abcdefghijklmnopqrst/platfo
 The response to this request will in Json format
 
 
-<div align="center">
-      <img src="https://user-images.githubusercontent.com/122074866/234604017-075b4c34-4956-4bbb-ac96-26373400f3a1.png">
-</div>
+  ```json
+  [
+    {
+      "name": "Dazzling Devil",
+      "description": "Straight from the streets of LA, the mind-blowing outfit by Lucii is ready to give your virtual closet a blend of futuristic and gala vibes. The multi-colored flashlights, the leather finesse, and the ‘ready-to-rock’ boots underline the designer’s cutting-edge creativity and imagination. Be the multi-hued spotlight in the Metaverse!",
+      "image": "https://nft.xrcouture.com/artgallery/phase2/Lucii/3.png",
+      "animation_url": "ipfs://bafybeieqtrzqyk4nawljawdgd5vfmv5wtcnmfxewlyanznvyecltdrb47q",
+      "id": {
+        "platform": "decentraland",
+        "chain": "matic",
+        "address": "0x99d6c0d1a656a1ee1f345ae6482d0afd76daf8a5"
+      },
+      "wearables": "https://metadrip.xrcouture.com/*******/*********/Dazzling_Devil_DCL.glb",
+      "category": "Upper Body"
+    }
+  ]
+  ```
 
 ## Supported Platforms
 
