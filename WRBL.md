@@ -1,6 +1,9 @@
 ## Project WRBL
 
-<img src="https://user-images.githubusercontent.com/122074866/235893485-00e59f9d-6ebc-4927-bc8d-f5304bf8f177.png">
+<img src="https://media.discordapp.net/attachments/1091046785180512356/1103312477569155133/Screenshot_2023-05-03_at_6.59.15_PM.png?width=1440&height=580">
+
+
+<img src="https://media.discordapp.net/attachments/1091046785180512356/1103314913688035369/Screenshot_2023-05-03_at_7.02.01_PM.png?width=1440&height=553">
 
 ## What
 
@@ -28,11 +31,11 @@ We’d be happy if you can collaborate in testing and feedback for the same
 
 
 ## Resources:
-[Learn our 3d creation process here](https://)
+[Learn our 3d creation process here](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md)
 
 [Workshops for wearable creations here](https://)
 
-[Automated avatar dressing - Avatar Dressing tool for clonex](https://)
+[Automated avatar dressing - Avatar Dressing tool for clonex](https://github.com/xrcouture/interoperability/blob/main/CloneX_Dresser.md)
 
 [About our API integrations](https://github.com/xrcouture/interoperability/blob/main/APIdocs.md)
 
