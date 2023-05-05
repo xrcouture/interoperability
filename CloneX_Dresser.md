@@ -49,10 +49,11 @@ An open marketplace that enables creators to collaborate and create for various 
 User flow:
 <img src="https://user-images.githubusercontent.com/122074866/235889238-3a2d13bc-5de2-45de-a640-885bcff1a796.png"/>
 
-Easy to create tool for multiple platforms and avatar types
-Easy integration with other possible NFT collections that have 3d avatars. 
+- Easy to create tool for multiple platforms and avatar types
+- Easy integration with other possible NFT collections that have 3d avatars. 
 
 
 ## Resources:
+##[Open source tool](https://)
 ## [WRBL Project](https://)
 
