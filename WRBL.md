@@ -33,7 +33,7 @@ We’d be happy if you can collaborate in testing and feedback for the same
 ## Resources:
 [Learn our 3d creation process here](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md)
 
-[Workshops for wearable creations here](https://)
+[Workshops for wearable creations here](https://drive.google.com/drive/folders/1b2mJqUXRyT3IU_J4BWXqVtxmZ0pfXTIX)
 
 [Automated avatar dressing - Avatar Dressing tool for clonex](https://github.com/xrcouture/interoperability/blob/main/CloneX_Dresser.md)
 
