@@ -4,7 +4,7 @@ Welcome to the documentation of the api that is used to achieve interoperability
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/122074866/234850975-50f66b94-4833-448f-8f58-0bc3f16a37aa.gif" width="auto"/>
+  <img src="https://user-images.githubusercontent.com/122074866/236494734-5c0b0e0a-395d-477e-be43-c8b782518e1e.png" width="auto"/>
 </div>
 
 ---
