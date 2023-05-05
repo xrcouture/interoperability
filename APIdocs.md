@@ -20,13 +20,13 @@ To achieve interoperability of digital fashions wearables across web2 and web3 p
 
 ## Why 
   This API largely solves the problem of interoperability. It connects multiple platforms together and allow them to access each other wearables. 
-  Makes more user to explore the platform where they can use their existing wearables.
+  The integration of this API in the platform allows expanded offering to it's users, which in turn makes more user to explore the platform where they can use their existing wearables.
   This serves as an entry to the "Open Metaverse". 
 
 ---
 
 ## What is the benefit of using the API
-  The API provides seamless and easy integration with the platforms. The API paves way to integrate your digital fashion wearables purchased from a marketplace or an in-Game purchase to be used across different platforms no matter about their formats. Both parties can be benfitied by this approach and it creates additional revenue flow
+  The API provides seamless and easy integration with the platforms. The API paves way to integrate your digital fashion wearables purchased from a marketplace or an in-Game purchase to be used across different platforms no matter about their formats. A win-win solution for both the platform and XRC by this approach and it creates additional revenue flow.
   
 ---
 
@@ -42,7 +42,7 @@ It is not possible to transfer ownership of a wearable for one particular platfo
 
 ## Who can use this API
 
-  Any Metaverse / Web2 platform that want to support interoperable digital fashion assets can start using this API. You can straightaway use this api, if your wearables 3d specifications matches any of the above supported platform. If not, we can customize the 3d files for your specifications
+  Any Metaverse / Web2 platform that want to support interoperable digital fashion assets can start using this API. You can straightaway use this api, if your wearables 3d specifications matches any of the supported platform mentioned below. If not, we can customize the 3d files for your specifications
   
 ---
   
