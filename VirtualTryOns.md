@@ -1,10 +1,6 @@
 # Virtual try ons
 
 <div align="center">
-          <img src="https://user-images.githubusercontent.com/122074866/235932341-d18474ca-f731-4009-b4ad-40015282746f.png"/>
-</div>
-
-<div align="center">
           <img src="https://user-images.githubusercontent.com/122074866/235932493-87a52592-def9-4129-a257-639c90384f46.png"/>
 </div>
 
@@ -34,7 +30,7 @@ Some of the designs were taken one step further by creating them for different p
 <img src="https://user-images.githubusercontent.com/122074866/235931946-28db911f-5cfb-4973-851c-9dfd223c5b9d.png" height="350"/><img src="https://user-images.githubusercontent.com/122074866/235932547-db7a4f6c-d2cd-4670-be86-405501b5e34f.gif" height="350"/>
 </div>
 
-   - Try the filter [here](https://web2.xrcouture.com/collections/web2/products/cristal-trench)
+   - Try the filter [here](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=435beccb14744014963d4661abd70fab&metadata=01)
 
 
 Some of our other recent experiments also involve AI in creating virtual wearables 
