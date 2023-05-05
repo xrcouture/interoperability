@@ -1,5 +1,5 @@
 ## Creating AR Wearables with snapchat
-
+<img src="https://user-images.githubusercontent.com/122074866/236392211-9c75a90c-b8c8-4d41-9ee6-1e58ff7e57c7.gif"/>
 
 ## Intro
 
@@ -25,6 +25,7 @@ Here we explore creating for the social AR platforms- snapchat since it allows f
 
 Here are some examples of AR Lenses we’ve created:
 
+<img src="https://user-images.githubusercontent.com/122074866/236392067-b02e0c00-093b-49e7-a1d1-f1f84151c3fa.gif"/>
 <img src="https://user-images.githubusercontent.com/122074866/235943537-021b382b-5995-4e16-a556-47d8c6fe9cf5.gif"/>
 
 ## 3d Creation process (Lens Studio- snapchat)
@@ -62,58 +63,66 @@ The occluder base mesh can be edited a little depending on what areas the garmen
 (for example the torso is covered by clothing so it doesn't make sense to add occluder underneath it.)
 
 
-After this the file can be exported as an FBX or a Gltf/ Glb since these formats work well for lens studio
-Check out the exporting guide here
+<img src="https://user-images.githubusercontent.com/122074866/236392205-c9108438-a3e3-4b01-b7fe-77d9049930cc.png"/>
 
-Lens studio
+
+After this the file can be exported as an FBX or a Gltf/ Glb since these formats work well for lens studio
+[Check out the exporting guide here](https://)
+
+## Lens studio
 After it’s successfully exported, we can import it into Lens studio to set up the Lens.
 
+<img src="https://user-images.githubusercontent.com/122074866/236392094-6026f49d-53a3-4a7e-8af2-675af70fc2a5.png"/>
 
-
-Tracking
+## Tracking
 Rig matching in lens studio (easily compatible with the mixamo rig).
 After placing the model in the body tracking component in the scene hierarchy and resizing the object scale, we can easily match the rig to the body tracking asset.-- It will then track the body and move well with our joints
 
+<img src="https://user-images.githubusercontent.com/122074866/236392036-35e2a1ac-6fda-4a69-9567-3d2d30e08c5a.png"/>
 
-
-Occluder set up
+## Occluder set up
 
 AR is usually a layer on top of the camera feed. In order for clothes to look realistic- we need to render the camera feed according to certain holes (like arm holes) in the mesh so that the back area is hidden. This is done through occluders.
-Read more here
+[Read more here](https://)
+
 The areas highlighted in blue are the occluders
 
+<img src="https://user-images.githubusercontent.com/122074866/236392181-bbfbf749-045b-40bc-849b-d7a9873cfcbd.png"/>
 
-Materials
+## Materials
 Some of the unique features in lens studio are the endless possibilities with shader manipulations. 
 Here we’ve created a scroll effect for the text on the skirt area using material nodes and logic
 
+<img src="https://user-images.githubusercontent.com/122074866/236392194-db7e9793-45b9-4f0d-a88f-6d8014119228.png"/>
 
+## Final output
 
-Final output
+<img src="https://user-images.githubusercontent.com/122074866/236392268-804dbbcd-2678-4349-a1c8-1c88403ff0eb.gif"/>
+<img src="https://user-images.githubusercontent.com/122074866/236396402-89b3b566-c9f9-47e9-9982-45a184dc3ecb.gif"/>
 
+## Other possible Enhancements
 
-Other possible Enhancements
-
+<img src="https://user-images.githubusercontent.com/122074866/236392093-2fe2d394-09b0-453e-ad41-3fe0237f5452.png"/>
 
 AR tools offer a wide level of customizability and creativity to create robust experiences.
 Apart from the material editing capabilities discussed above, Lens studio also offers VFX adding capabilities and can also be explored further.
 For example: Below we’ve added starry particles to flora flamboyance for the glamor feel
 
-
+<img src="https://user-images.githubusercontent.com/122074866/236392028-457267a6-35a2-40d5-98cd-ce179d365e98.gif"/>
 
 Another way of adding magic to a lens experience is by having custom interactions as triggers for certain effects 
 For example below we’ve used a pose detection method to trigger a boom effect for cosmic boom
 
 
+<img src="https://user-images.githubusercontent.com/122074866/236392096-4c6b69b9-d135-4cfc-be21-7959994a9f63.gif"/>
 
 
 
+## Resources
 
-Resources
+[Documentation for Lens studio](https://)
 
-Documentation for Lens studio
+[Mesh optimization](https://)
 
-Mesh optimization
-
-Mixamo for rigging-
+[Mixamo for rigging-](https://)
 
