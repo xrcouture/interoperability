@@ -63,5 +63,5 @@ Ready player Me avatar converted into VRM with our Vibrance splash costume and t
 This was just an overview of the visual fidelity. 
 As you can see through the examples above, there is a good resemblance between all the created wearables for different platforms, even though the style and possibilities for each is very different
 
-Know the 3d creation process for these platforms in detail here
+[Know the 3d creation process for these platforms in detail here](https://)
 
