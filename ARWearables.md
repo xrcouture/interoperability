@@ -112,8 +112,13 @@ Here we’ve created a scroll effect for the text on the skirt area using materi
 
 ## Final output
 
-<img src="https://user-images.githubusercontent.com/122074866/236392268-804dbbcd-2678-4349-a1c8-1c88403ff0eb.gif"/>
-<img src="https://user-images.githubusercontent.com/122074866/236396402-89b3b566-c9f9-47e9-9982-45a184dc3ecb.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/236392268-804dbbcd-2678-4349-a1c8-1c88403ff0eb.gif"/>
+</div>
+
+<div align="center">  
+  <img src="https://user-images.githubusercontent.com/122074866/236396402-89b3b566-c9f9-47e9-9982-45a184dc3ecb.gif"/>
+</div>
 
 ## Other possible Enhancements
 
@@ -123,21 +128,23 @@ AR tools offer a wide level of customizability and creativity to create robust e
 Apart from the material editing capabilities discussed above, Lens studio also offers VFX adding capabilities and can also be explored further.
 For example: Below we’ve added starry particles to flora flamboyance for the glamor feel
 
-<img src="https://user-images.githubusercontent.com/122074866/236392028-457267a6-35a2-40d5-98cd-ce179d365e98.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/236392028-457267a6-35a2-40d5-98cd-ce179d365e98.gif"/>
+</div>
 
 Another way of adding magic to a lens experience is by having custom interactions as triggers for certain effects 
 For example below we’ve used a pose detection method to trigger a boom effect for cosmic boom
 
-
-<img src="https://user-images.githubusercontent.com/122074866/236392096-4c6b69b9-d135-4cfc-be21-7959994a9f63.gif"/>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/122074866/236392096-4c6b69b9-d135-4cfc-be21-7959994a9f63.gif"/>
+</div>
 
 
 ## Resources
 
-[Documentation for Lens studio](https://)
+[Documentation for Lens studio](https://docs.snap.com/lens-studio/home)
 
-[Mesh optimization](https://)
+[Mesh optimization](https://sites.stat.washington.edu/wxs/Siggraph-93/siggraph93.pdf)
 
-[Mixamo for rigging-](https://)
+[Mixamo for rigging](https://www.mixamo.com/#/)
 
