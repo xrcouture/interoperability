@@ -9,7 +9,7 @@
 
 [You can check the live collection here!](https://metadrip.xrcouture.com) 
 
-[You can check the 3d technical process here](https://)
+[You can check the 3d technical process here](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md)
 
 ---
 
@@ -42,7 +42,7 @@ We’ve divided our roadmap into three milestones:
 ## Metadrip 1.0 <img src="https://img.shields.io/static/v1?label=&message=Completed&color=green">
 <img src="https://user-images.githubusercontent.com/122074866/236194967-d1f854f2-e0fd-4478-8344-41eb2698a688.png" width="100%"/>
 
-### 3d Side
+### 3d Development
 
   **Goal**
    - To be Aligned with stage 1 of interoperability mentioned [here](https://github.com/xrcouture/interoperability#1-airdropslinked-wearables)
@@ -88,7 +88,7 @@ We’ve divided our roadmap into three milestones:
 
    <img src="https://user-images.githubusercontent.com/122074866/235130642-43a1e6fe-ec49-4653-b191-d3cc63e4e9e5.png" width="100%"/>
 
-   - We’ve documented all the technical aspects of creating 3d wearable [here](https://)
+   - We’ve documented all the technical aspects of creating 3d wearable [here](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md)
 
 
   - Used each platform's unique capabilities to enhance the experience
@@ -109,14 +109,14 @@ We’ve divided our roadmap into three milestones:
  **Learnings:**
 
   - Creating 3d assets which are compatible for various platforms is a time consuming and tedious process. 
-  [We’ve drawn a more streamlined process for creating 3d assets here](https://)
+  [We’ve drawn a more streamlined process for creating 3d assets here](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md)
   
   - There are a bunch of constraints in creating wearables for different platform
     Some platforms like Roblox and Sandbox require a type of a creator pass or a UGC pass. 
     These passes are not easy to get for all creators/studios. Hence we  believe the answer lies in open UGC opportunities.
     
  
- ### Tech Side
+ ### Tech Development
  
   **Goal:**
   
@@ -133,7 +133,7 @@ We’ve divided our roadmap into three milestones:
   
   
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/122074866/236372848-99ea9590-4e55-4362-b9a6-89f9628defac.png" width="auto" height="40%"/>
+    <img src="https://media.discordapp.net/attachments/1081164227890384907/1103921067451490304/Screenshot_2023-05-05_at_11.17.34_AM.png?width=1053&height=580" width="auto" height="40%"/>
   </div>
 
 
@@ -149,7 +149,7 @@ We’ve divided our roadmap into three milestones:
 
 ## Metadrip 2.0 <img src="https://img.shields.io/static/v1?label=&message=In Development&color=yellow"> 
 
-  ### 3D side
+  ### 3D Development
   
   **Goal:**
   
@@ -161,7 +161,7 @@ We’ve divided our roadmap into three milestones:
   - To solve the problem of repetitive work for the 3d creation process, we realized there should be an easy fitting tool where different avatar types can be dressed with any wearable
   - This led us to experiment with creating an easy wearable editor for VRM and GLTF avatars.
 
-  **Tech side:** 
+  **Tech Development:** 
 
   **Goal:**
 
@@ -182,7 +182,7 @@ We’ve divided our roadmap into three milestones:
 
 ## Metadrip 3.0 <img src="https://img.shields.io/static/v1?label=&message=Brainstorming&color=orange"> 
 
-### 3d and Tech
+### 3d and Tech Development
 
   **Goal:**
   
@@ -223,7 +223,7 @@ That understand the way each platform avatar works and categorize them on the ba
 
 Something like this will cover the bare basics of creating a 3d wearable asset for different avatars across platforms. But with NFT’s there is an added layer of rarity that in a lot of cases is powered by certain capabilities in games- like a wearable that allows you to fly in one metaverse might need an equivalent capability in another.
 
-[We’ve visualized  how a wearable of the future might  look like and the capabilities it might have](https://)
+[We’ve visualized how a wearable of the future might  look like and the capabilities it might have](https://)
 
 
 
@@ -253,7 +253,7 @@ We want a simple drag and drop interface that allows users to upload any avatar 
 
 We’ve started the development with support for Clonex avatars.Eventually we plan on adding support for multiple body types
 
-[You can learn more about it here](https://)
+[You can learn more about it here](https://github.com/xrcouture/interoperability/blob/main/CloneX_Dresser.md)
 
 ---
 
