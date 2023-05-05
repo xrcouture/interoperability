@@ -223,7 +223,7 @@ That understand the way each platform avatar works and categorize them on the ba
 
 Something like this will cover the bare basics of creating a 3d wearable asset for different avatars across platforms. But with NFT’s there is an added layer of rarity that in a lot of cases is powered by certain capabilities in games- like a wearable that allows you to fly in one metaverse might need an equivalent capability in another.
 
-[We’ve visualized how a wearable of the future might  look like and the capabilities it might have](https://)
+[We’ve visualized how a wearable of the future might  look like and the capabilities it might have](https://github.com/xrcouture/interoperability/blob/main/walkInOneWearable.md)
 
 
 
@@ -243,8 +243,6 @@ We have seen VRM as a very versatile format in this regard since it allows the u
 But the major constraint here is that it is an avatar standard and does not allow easy customizability for the outfit/skin color/hair etc.
 
 There are a lot of easy creator tools that have simplified the process of creating VRM’s like [VROID](https://vroid.com/en/studio), but are very limited and still not as intuitive for any average user.
-
-[You can view some of our experiments where we take one VRM avatar and explore how it can be taken across platforms](https://)
 
 
 All this led us to experiment with creating an easy wearable editor for VRM and GLTF avatars.
