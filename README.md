@@ -95,7 +95,7 @@ Creators and developers are the pillars for realizing the metaverse, that’s wh
 
 Workshop series conducted for creating digital wearables for the metaverse covering topics like garment creation using softwares like Clo3d/Marvelous designer and the entire process for creating game-ready assets for the metaverse
 
-You can check the workshop series [here](https://)
+You can check the workshop series [here](https://drive.google.com/drive/folders/1b2mJqUXRyT3IU_J4BWXqVtxmZ0pfXTIX)
 
 [Be notified for any upcoming workshops if you’re interested](https://)
 
