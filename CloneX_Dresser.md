@@ -1,4 +1,4 @@
-## Clonex Dresser
+# Clonex Dresser
 <img src="https://user-images.githubusercontent.com/122074866/235888403-52a3aa0c-25a4-4f78-8ce8-496b590cf99a.png"/>
 
 ## What
@@ -31,18 +31,21 @@ We’ve started the development with support for Clonex avatars.Eventually we pl
 User flow:
 <img src="https://user-images.githubusercontent.com/122074866/235887590-fe929894-7cdc-4424-90cb-32763c9810bf.png"/>
 
-Ability to import your clonex and dress them with any of the metadrip wearables -- screenshots of in dev process
-Capabilities of exporting with VRM files
+  - Ability to import your clonex and dress them with any of the metadrip wearables
+  
+  - Capabilities of exporting with VRM files
 
 ## V2: <img src="https://img.shields.io/static/v1?label=&message=Brainstorming &color=orange"> 
 
 User flow:
 <img src="https://user-images.githubusercontent.com/122074866/235888906-edcae8af-ff75-4e00-9b3e-6d93ca2e0c72.png"/>
 
-Ability to create your own wearables easily and add it to your clonex
-Deploy as an NFT with all supported formats as linked utilities
-An open marketplace that enables creators to collaborate and create for various NFT's with linked utilities and export capabilities
-(integrated with WRBL project- [Click here to know more](https://))
+  - Ability to create your own wearables easily and add it to your clonex
+
+  - Deploy as an NFT with all supported formats as linked utilities
+
+  - An open marketplace that enables creators to collaborate and create for various NFT's with linked utilities and export capabilities
+(integrated with WRBL project- [Click here to know more](https://github.com/xrcouture/interoperability/blob/main/WRBL.md))
 
 ## V3: <img src="https://img.shields.io/static/v1?label=&message=Brainstorming &color=orange"> 
 
@@ -54,6 +57,6 @@ User flow:
 
 
 ## Resources:
-##[Open source tool](https://)
-## [WRBL Project](https://)
+
+### [WRBL Project](https://github.com/xrcouture/interoperability/blob/main/WRBL.md)
 
