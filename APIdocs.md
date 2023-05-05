@@ -169,6 +169,8 @@ The response to this request will in Json format
     5) Roblox
     6) Sandbox  
   
+# Support
 
+  If you are facing any issues in integrating the API, please feel free to [book a meeting](https://calendly.com/rakesh-xrc/30min) with us.
 
 
