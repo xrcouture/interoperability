@@ -39,9 +39,7 @@ Some of our other recent experiments also involve AI in creating virtual wearabl
 
 <img src="https://user-images.githubusercontent.com/122074866/235932596-e717db2b-274b-4aab-864f-914b0e185c5b.png"/>
 
--2d AR Virtual fitting using snapchat
-
-[Try this](https://)
+   - 2d AR Virtual fitting using snapchat. [Try this](https://)
 
           
 
