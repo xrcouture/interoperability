@@ -106,15 +106,6 @@ The response to this request will in Json format
   ]
   ```
 
-## Supported Platforms
-
-1) Decentraland
-2) Zepeto
-3) OVR
-4) Snapchat
-5) Roblox
-6) Sandbox
-
 ## REST API (Web2)
 
   The web2 platforms will be provided with a REST API and these platforms can pass the users email address in the API to get the users assets
@@ -157,16 +148,20 @@ The response to this request will in Json format
     }
   ]
   ```
-  
-## Supported Platforms
-
-1) Zepeto
-2) Roblox
-  
 
 ## Unity SDK
 
   We are also working on a Unity SDK, that can be imported into the environment. To know more about this, [contact us](mailto:hello@xrcouture.com)
+  
+  
+## Supported Platforms
+
+1) Decentraland
+2) Zepeto
+3) OVR
+4) Snapchat
+5) Roblox
+6) Sandbox  
   
 
 
