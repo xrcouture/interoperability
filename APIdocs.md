@@ -41,13 +41,27 @@ It is not possible to transfer ownership of a wearable for one particular platfo
       <img src="https://user-images.githubusercontent.com/122074866/234560521-49e9574a-0ecc-4322-9e83-11342ba989ab.png">
 </div>
 
-# Format
+### Access and authentication
+  All API request is sent over HTTPS and accessed from https://api.model.metadrip.xrcouture.com
+  
+  The API access is restricted and it needs an API key to access it. You can generate a key [here](https://metadripos.netlify.app/api)
 
-https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+### Format
+  The API request should be in below format
 
-Example
+  https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+  
+  where,
+  
+   {apikey} => unique key to access the api
+    
+   {platformName} => platformName from the list of supported platforms mentioned below in the document
+   
+   {walletAddress} => wallet address of the owner of the metadrip collection
 
-https://api.model.metadrip.xrcouture.com/web3/v1/xrc-abcdefghijklmnopqrst/platform/decentraland/address/0xcd8c097cC2331EeF50074bf69F7eD26e7896D48b
+  Example
+
+  https://api.model.metadrip.xrcouture.com/web3/v1/xrc-abcdefghijklmnopqrst/platform/decentraland/address/0xcd8c097cC2331EeF50074bf69F7eD26e7896D48b
 
 # Response
 The response to this request will in Json format
