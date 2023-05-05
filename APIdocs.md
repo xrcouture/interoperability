@@ -32,6 +32,15 @@ It is not possible to transfer ownership of a wearable for one particular platfo
 
 ---
 
+## Who can use this API
+
+  Any Metaverse / Web2 platform that want to support interoperable digital fashion assets can start using this API. You can straightaway use this api, if your wearables 3d specifications matches any of the above supported platform. If not, we can customize the 3d files for your specifications
+  
+## Supported integrations
+  There are two ways by which the metaverse platforms can integrate their platform with XRC
+  - REST API (Web2 and Web3)
+  - Unity SDK
+
 ## REST API
 
   The platforms will be provided with a REST API and these platforms can use it to retrieve the wearables/digital fashion asset and show it in their own marketplace or under users profile in the metaverse. We are also working on a Unity based SDK that can be directly integrated within the environment
@@ -49,7 +58,7 @@ It is not possible to transfer ownership of a wearable for one particular platfo
 ### Format
   The API request should be in below format
 
-  https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+  <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
   
   where,
   
@@ -94,9 +103,8 @@ The response to this request will in Json format
 5) Roblox
 6) Sandbox
 
-## Who can use this API
 
-  Any Metaverse / Web2 platform that want to support interoperable digital fashion assets can start using this API. You can straightaway use this api, if your wearables 3d specifications matches any of the above supported platform. If not, we can customize the 3d files for your specifications
+### Web2
 
 
 
