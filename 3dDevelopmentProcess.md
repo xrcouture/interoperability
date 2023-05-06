@@ -289,6 +289,7 @@ Moreover there are other platforms that are overall similar to these 4 platforms
 [https://sandboxgame.gitbook.io/the-sandbox/links-and-resources/tutorials](https://)
 [https://docs.decentraland.org/creator/wearables/wearables-overview/](https://)
 [https://create.roblox.com/docs/resources/beyond-the-dark/layered-clothing](https://)
+
 [https://docs.zepeto.me/studio-item/lang-ko/docs](https"//)
 
 
