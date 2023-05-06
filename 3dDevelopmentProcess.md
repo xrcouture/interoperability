@@ -154,6 +154,10 @@ After all this we can Hit publish!
 
 [For more info, check the Decentraland docs](https://docs.decentraland.org/creator/wearables/creating-wearables/)
 
+
+---
+
+
 ##  2. Roblox
    Roblox has 2 different workflows- one is layered clothing and other is classic clothing. Here is the process overview for creation:
 
@@ -193,9 +197,11 @@ This can now be exported as an FBX for roblox studio
 In roblox studio we need to Configure the materials and test for deforms. We also have the ability to edit the mesh a little using a lattice structure within roblox studio itself. 
 Refer the link below for more details
 
-[https://create.roblox.com/docs/avatar/accessories/accessory-fitting-tool](https://)
+[https://create.roblox.com/docs/avatar/accessories/accessory-fitting-tool](https://create.roblox.com/docs/avatar/accessories/accessory-fitting-tool)
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236606182-e7a728ea-809f-400d-a604-c374cf7ace42.png"/>
+</div>
 
 Here’s a preview of chrome heart in roblox:
 
@@ -203,18 +209,15 @@ Here’s a preview of chrome heart in roblox:
 
 Classic clothing is a type of 2D cosmetic item that you can apply to the surface of an avatar character.
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236606219-9e13e9c5-cc96-4445-80ad-d99da3e28417.png"/>
+</div>
 
 Here's more on how to create it:
-[https://create.roblox.com/docs/avatar/accessories/classic-clothing](https://)
+[https://create.roblox.com/docs/avatar/accessories/classic-clothing](https://create.roblox.com/docs/avatar/accessories/classic-clothing)
 
 
-
-
-
-
-
-
+---
 
 
 
@@ -236,18 +239,22 @@ Here's more on how to create it:
 
 Mask Painting
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236607339-013d8a05-494c-4678-ba41-2f75ab256538.png"/>
+</div>
 
 Rigging and weight painting
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236607383-96f65e3f-0324-495b-935a-d5d482cc99df.png"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/122074866/236607424-f7436f7f-c5d3-41a6-8960-e6682afd24ce.png"/>
 
 ## Export as FBX
 
 Import into unity and follow the steps given here.
-[Unity edits](https://)
+[Unity edits](https://docs.zepeto.me/studio-item/lang-ko/docs/converting_export)
 
 Zepeto provides a unity package that helps with the conversion process to make all the changes. The main aim is to configure the materials and test for the different body types. 
 
@@ -280,7 +287,9 @@ Creating voxels in vox edit is very much like painting in 3d using blocks.
 ## Glow materials(Emissive)
 Vox edit has the ability to add emissive materials. You can do that by enabling this opinion
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236607816-6fe266e9-f830-4922-bc66-6cc22ad306e5.png"/>
+</div>
 
 ## Export to sandbox Marketplace
 
@@ -296,13 +305,13 @@ Each avatar has a set of rarities. While exporting we have the option of editing
 
 Once everything is built , it's a good practice to test out how the avatar functions in the game. We can do this by testing it in the game editor. 
 
-<img src=""/>
+<img src="https://media.discordapp.net/attachments/1081164227890384907/1104345506546720808/image32.gif?width=800&height=450"/>
 
 Once it’s all good, 
 we are all set to publish!
 
 
-## nStreamlining the process of creation:
+## Streamlining the process of creation:
 
 These were 4 different platforms that broadly explain the process for creating for various platforms/types.
 
@@ -320,12 +329,15 @@ Moreover there are other platforms that are overall similar to these 4 platforms
 
 ## Resources: 
 
-[https://sandboxgame.gitbook.io/the-voxedit-academy/voxedit/welcome-to-the-voxedit-academy](https://)
-[https://sandboxgame.gitbook.io/the-sandbox/links-and-resources/tutorials](https://)
-[https://docs.decentraland.org/creator/wearables/wearables-overview/](https://)
-[https://create.roblox.com/docs/resources/beyond-the-dark/layered-clothing](https://)
+[https://sandboxgame.gitbook.io/the-voxedit-academy/voxedit/welcome-to-the-voxedit-academy](https://sandboxgame.gitbook.io/the-voxedit-academy/voxedit/welcome-to-the-voxedit-academy)
 
-[https://docs.zepeto.me/studio-item/lang-ko/docs](https"//)
+[https://sandboxgame.gitbook.io/the-sandbox/links-and-resources/tutorials](https://sandboxgame.gitbook.io/the-sandbox/links-and-resources/tutorials)
+
+[https://docs.decentraland.org/creator/wearables/wearables-overview/](https://docs.decentraland.org/creator/wearables/wearables-overview/)
+
+[https://create.roblox.com/docs/resources/beyond-the-dark/layered-clothing](https://create.roblox.com/docs/resources/beyond-the-dark/layered-clothing)
+
+[https://docs.zepeto.me/studio-item/lang-ko/docs](https://docs.zepeto.me/studio-item/lang-ko/docs)
 
 
 
