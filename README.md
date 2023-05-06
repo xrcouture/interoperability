@@ -58,7 +58,7 @@ seamless exchange of information on their assets where users can move smoothly f
 Our experiments and projects are for the greater goal of interoperable fashion in the metaverse. We’ve shared our findings and research through some of our projects such as:
 
   - ### Virtual try ons 
-    - A collection of 3d garments that anyone can virtually try on their photographs
+    - A collection of 3d garments that anyone can virtually try on their photographs. Explore [here](https://github.com/xrcouture/interoperability/blob/main/VirtualTryOns.md)
   
   <div align="center">
     <img src="https://user-images.githubusercontent.com/122074866/235868988-a09e37fa-67df-45e6-831d-11b821b8b25b.png"/>
