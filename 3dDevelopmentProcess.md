@@ -154,29 +154,39 @@ After all this we can Hit publish!
 
 [For more info, check the Decentraland docs](https://docs.decentraland.org/creator/wearables/creating-wearables/)
 
- ##  2. Roblox
-        Roblox has 2 different workflows- one is layered clothing and other is classic clothing. Here is the process overview for creation:
+##  2. Roblox
+   Roblox has 2 different workflows- one is layered clothing and other is classic clothing. Here is the process overview for creation:
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236605894-d32266e7-54fa-4c4b-aa3e-c0476dfd8088.png"/>
+</div>
 
-## 1) Layered clothing process:
+## 2.1) Layered clothing process:
 
 Roblox provides a base avatar and skeleton file which has a unique layering system of 2 meshes. Inner and outer mesh. We need to Fit the garment such that it lies between the inner and outer mesh. The reason for this is to fit any avatar type using layers. Here how that looks like
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236605951-c0e60078-6262-4d60-beda-da36dfc594fe.png"/>
+ </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236606006-a9da7490-f5e5-40f3-83b9-9a6b91414341.png"/>
+</div>
 
 Another point to note is that there are attachment points given in the base file so that things like swords/belts. Accessories etc. can be attached. 
 We might need to shift these attachment points according to our garment
 
 Inner cage with deformed mesh and attachment points placed.
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236606039-8c8df54e-8a52-4887-9e6f-781d6415a077.png"/>
+</div>
 
 Edited outer to fit the skirt area:
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236606084-8cf2ec74-3f3f-4a26-96aa-28bbb88778da.png"/>
+</div>
 
 This can now be exported as an FBX for roblox studio
 
