@@ -305,7 +305,7 @@ Each avatar has a set of rarities. While exporting we have the option of editing
 
 Once everything is built , it's a good practice to test out how the avatar functions in the game. We can do this by testing it in the game editor. 
 
-<img src="https://media.discordapp.net/attachments/1081164227890384907/1104345506546720808/image32.gif?width=800&height=450"/>
+<img src="https://user-images.githubusercontent.com/122074866/236617515-6d280722-5cfd-4c83-85d6-40326e66b9a4.gif"/>
 
 Once it’s all good, 
 we are all set to publish!
