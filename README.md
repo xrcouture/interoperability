@@ -67,6 +67,7 @@ Our experiments and projects are for the greater goal of interoperable fashion i
   - ### Metadrip
     - A wearable NFT collection that can currently be used across 4 platforms. We unlock interoperability through experimentation. Explore [here](https://github.com/xrcouture/interoperability/blob/main/Metadrip.md)
     
+    
     <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878287-4c0d8575-7abe-4708-afbb-f865e2c5a8f6.png" width="auto" height="20%"/>
   </div>
@@ -75,7 +76,7 @@ Our experiments and projects are for the greater goal of interoperable fashion i
     - Easy 3d garment creation service for multiple platforms. Explore [here](https://github.com/xrcouture/interoperability/blob/main/WRBL.md)
     
     <div align="center">
-     <img src="https://user-images.githubusercontent.com/122074866/235878610-adcb9a3b-58e0-4e77-b25f-a2111efaed93.png" width="auto" height="20%"/>
+     <img src="https://media.discordapp.net/attachments/1091046785180512356/1103312477569155133/Screenshot_2023-05-03_at_6.59.15_PM.png?width=852&height=532"/>
   </div>
   
   - ### Clonex Dresser 
