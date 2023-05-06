@@ -24,25 +24,31 @@ Voxel based
 ## Marvelous/ Clo3d
 The 3d creation process starts with the creation of the 3d asset in Clo3d/ Marvelous designer.
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236602071-07d419ca-66f6-440f-bb3c-b6185f1bdb1e.png"/>
+</div>
 
 ## Retopology
 
 It is then taken into blender/ any 3d software for retopology and optimization. It’s best to have an optimum poly count in this with a good edge flow so the files can be easily edited later according to the requirement of the specific platforms.
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236602176-73dbe161-6313-481b-b91e-dfb3e4f4c7ab.png"/>
+</div>
 
 
 ## UV Unwrapping:
 
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236602284-a0b5230f-008a-4971-8cc7-7936091f65ad.png"/>
+</div>
 
 Example of good edge flow:
 
 <img src="https://user-images.githubusercontent.com/122074866/236602421-eba977c7-9086-41b6-abb5-b82cf7dbdcfd.png"/>
 
-## Texturing and baking. 
+## Texturing and baking
 
 <img src="https://user-images.githubusercontent.com/122074866/236602468-7017d95b-eced-4319-982b-ffab2a2e44b9.png"/>
 
@@ -52,8 +58,7 @@ Once the asset is created, we need to rig it using a simple rig. In the image be
 <img src="https://user-images.githubusercontent.com/122074866/236602578-9f265867-757c-4124-92e0-910257310876.png"/>
 
 
-## B]
-## Platform specific processes:
+## B]. Platform specific processes:
 ## Here we explore the process of creating for 4 different platforms:
 
 
@@ -66,15 +71,19 @@ W now need to pose the character according to the base pose dor the Provided rig
 
 The DCL Body base mesh comes in a male and female body type which is further divided into parts:
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236602917-e9546b5a-3abf-439f-90d0-cca2184b4fe3.png"/>
 <img src="https://user-images.githubusercontent.com/122074866/236602918-999eb748-a80d-4ae4-a3e1-3ed04d03ceeb.png"/>
 <img src="https://user-images.githubusercontent.com/122074866/236602920-b7fe3fd8-2e36-4a29-af77-b4dfdb03f309.png"/>
+</div>
 
 This means we need to create the garment in such a way that it does not clip through the mesh. Usually we start with the female body type since it has a wider hip area.
 
 Chrome heart posed:
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236603227-51b0e23d-809a-40c8-ba05-09f66293b73e.png"/>
+</div>
 
 
 ## Mesh Optimization:
@@ -90,20 +99,30 @@ Based on these categories, We need to decide the target poly counts for the resp
 
    Simplifies meshes:
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236603465-06ecc4fa-e488-4e0f-b6a5-2784c1876716.png"/>
+</div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236603538-ec0dffb8-d071-46f8-ac0f-606a0a1e69db.png"/>
+</div>
 
 After the meshes are retopologized, we need to take care that all the faces are facing outwards since DCL only renders one side of the face
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236603590-762e9ed3-7d31-4907-98c3-fb0373f4eb92.png"/>
+</div>
 
 ## Weight painting to the new rig
 We need to make sure all the weights are assigned to each bone properly so there are no clipping issues.
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236603655-f158d85a-1721-4813-85da-0e3ca4359758.gif"/>
+</div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236604265-c1b2cb8d-7162-4813-a6d8-7778ec5a30b8.gif"/>
+</div>
 
 ## Simplify materials
 
@@ -115,19 +134,25 @@ We need to make sure all the weights are assigned to each bone properly so there
 
 ## Exporting as glb
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236604767-7cc5bda2-091f-4e30-9b5f-a9bc1f18da7d.png"/>
+</div>
 
 Upload to DCL Builder
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236605300-b5100cfa-38b8-4190-a0b5-04713be9860e.png"/>
+</div>
 
 ## Configure settings
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/122074866/236605728-5acfed8a-ed54-42b3-8fe3-680cad98d3ef.png"/>
+</div>
 
 After all this we can Hit publish!
 
-[For more info, check the Decentraland docs:](https://)
+[For more info, check the Decentraland docs](https://docs.decentraland.org/creator/wearables/creating-wearables/)
 
  ##  2. Roblox
         Roblox has 2 different workflows- one is layered clothing and other is classic clothing. Here is the process overview for creation:
