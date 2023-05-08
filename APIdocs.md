@@ -170,9 +170,9 @@ The response to this request will in Json format
       
       The NFT is free and you have to pay only the gas fees.
   
-  2) Use the below REST API
+  2) Use the below REST API to retrieve the 3d files
    
-     https://api.model.metadrip.xrcouture.com/test/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+     <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/test/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
   
 ## Support
 
