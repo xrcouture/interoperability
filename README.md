@@ -2,7 +2,7 @@
 
 ## Intro
 
-Welcome to our GitHub profile! We are a digital fashion/ wearables platform that creates hyper-realistic 3D digital wearables which can be worn on avatars across multiple metaverse platforms and online games. We are proud to showcase some of our work on this page and invite you to collaborate with us! 
+Hello and welcome to our GitHub profile! We are a team of passionate digital fashion/wearable creators and developers who have been working on this field for over 3 years. Our platform enables you to design and wear hyper-realistic 3D digital wearables on your avatars across multiple metaverse platforms and online games. We believe in the power of interoperability and collaboration, and that’s why we have spent more than a year inviting developers to join us in this exciting journey. On this page, you can find some of our amazing projects and learn how to get involved with us! 
 
 <div>
   <img src="https://user-images.githubusercontent.com/122074866/234803309-861106ed-3cb5-4fbf-91b4-cbbf986ee3e4.png" width="100%"/>
