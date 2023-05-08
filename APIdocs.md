@@ -161,11 +161,19 @@ The response to this request will in Json format
     
 ## How to Test the API
   If you are not a metadrip collection holder and still want to test the api, you can do by following the below steps
-  1) Mint a NFT
-      You have to mint a NFT for yourself [here](https://polygonscan.com/address/0x99baf06205d8b8812680298edc06b8ff7f96894f#writeContract)
+  1) Mint a NFT (Polygon)
+  
+      1.1) You have to mint a NFT for yourself [here](https://polygonscan.com/address/0x99baf06205d8b8812680298edc06b8ff7f96894f#writeContract)
       
-      connect your wallet and call the **safeMint** function with a wallet address and below URI
+      1.2) connect your wallet
+      
+      <img src="https://user-images.githubusercontent.com/122074866/236830652-3c0199d5-cbbd-4cea-840a-34b2cc3a4969.png">
+ 
+      
+      1.3) call the **safeMint** function with your wallet address and copy-paste the below URI
       https://metadrip.xrcouture.com/json/WRBLTester.json
+      
+      <img src="https://user-images.githubusercontent.com/122074866/236830152-cfc93093-bd39-44f2-9a73-f8c2dfcea759.png">
       
       
       The NFT is free and you have to pay only the gas fees.
@@ -173,6 +181,8 @@ The response to this request will in Json format
   2) Use the below REST API to retrieve the 3d files
    
      <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/test/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+     
+     You need an unique key to access this API. You can generate a key [here](https://metadripos.netlify.app/api)
   
 ## Support
 
