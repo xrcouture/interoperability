@@ -1,6 +1,6 @@
 # 📙 API Documentation
 
-Welcome to the documentation of the api that is used to achieve interoperability of digital fashion wearables across different platforms. This documentation is mainly focused on the existing metadrip NFT collection
+Welcome to the documentation of the API that enables interoperability for digital fashion wearables across various web2 and web3 platforms. This documentation will help you understand the features and functionalities of the metadrip NFT collection, which consists of 12 unique and creative wearables for your avatars designed by independent creators. Metaverse platforms can install this API for free and contribute to the vision of an interoperable and open metaverse, where users can enjoy the freedom and diversity of digital fashion. Join us in this exciting journey to create the metaverse of tomorrow!
 
 
 <div align="center">
@@ -11,7 +11,10 @@ Welcome to the documentation of the api that is used to achieve interoperability
 
 ## 🥅 Goal
 
-To achieve interoperability of digital fashions wearables across web2 and web3 platform
+With this API we wish to enable,
+- users: to make digital fashion fun and easy, no matter what platform they use.
+- creators: showcase thier work and reach more people with interoperable wearables.
+- metaverse platforms: Enable interoperability and bring-in more users and creators.
 
 ---
 
