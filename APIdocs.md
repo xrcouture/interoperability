@@ -165,12 +165,14 @@ The response to this request will in Json format
       You have to mint a NFT for yourself [here](https://polygonscan.com/address/0x99baf06205d8b8812680298edc06b8ff7f96894f#writeContract)
       
       connect your wallet and call the **safeMint** function with a wallet address and below URI
+      https://metadrip.xrcouture.com/json/WRBLTester.json
       
       
       The NFT is free and you have to pay only the gas fees.
   
   2) Use the below REST API
-     https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+   
+     https://api.model.metadrip.xrcouture.com/test/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
   
 ## Support
 
