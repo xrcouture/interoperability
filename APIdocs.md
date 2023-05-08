@@ -21,7 +21,10 @@ With this API we wish to enable,
 ---
 
 ## Benefits of using the API
-  The API provides seamless and easy integration with the platforms. The API paves way to integrate your digital fashion wearables purchased from a marketplace or an in-Game purchase to be used across different platforms no matter about their formats. A win-win solution for both the platform and XRC by this approach and it creates additional revenue flow. Better alternative to Aridrops (Link multiple assets under one schema 'Origin NFT').
+
+- API makes it simple and seamless to use digital fashion wearables on different platforms.
+- Create Origin NFTs that link multiple assets under one schema, a better alternative to Aridrops.
+- Provide additional value for users, and opputunity to attract NFT holders. 
   
 ---
 
@@ -32,6 +35,7 @@ With this API we wish to enable,
 ---
   
 ## Supported integrations
+
   There are two ways by which the metaverse platforms can integrate their platform with XRC
   - REST API (Web2 and Web3)
   - Unity SDK
