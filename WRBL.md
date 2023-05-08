@@ -25,7 +25,7 @@ Each stage will shorten the creation process and solve for feasibility in the cr
 
 We have released an alpha version of this platform for early access. 
 
-[Get access here](https://metadripos.netlify.app/wrbl)
+[Get access here](https://docs.xrcouture.com)
 
 We’d be happy if you can collaborate in testing and feedback for the same
 
