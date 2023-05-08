@@ -106,6 +106,6 @@ You can check the workshop series [here](https://drive.google.com/drive/folders/
 
 - You can explore our API documentation [here](https://github.com/xrcouture/metadrip/blob/main/APIdocs.md)
 - Download WRBL tester pack: Sample 3D Assets created as per standars of popular web2 and web3 platforms
-- 3D Asset development process of various platforms
+- [3D Asset development process](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md) of various platforms
 
 ---
