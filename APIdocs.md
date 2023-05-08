@@ -186,6 +186,6 @@ The response to this request will in Json format
   
 ## Support
 
-  If you are facing any issues in integrating the API, please feel free to [book a meeting](https://calendly.com/rakesh-xrc/30min) with us.
+  We are happy to offer you a consultation session to help you learn more about our amazing API or assist you with any installation issues. please feel free to [book a meeting](https://calendly.com/rakesh-xrc/30min) with us.
 
 
