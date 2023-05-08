@@ -37,7 +37,6 @@ With this API we wish to,
   
 ## Supported integrations
 
-  There are two ways by which the metaverse platforms can integrate their platform with XRC
   - REST API (Web2 and Web3)
   - Unity SDK
   - Unreal Engine SDK
