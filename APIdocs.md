@@ -142,11 +142,11 @@ The response to this request will in Json format
   
 ## Available 3D formats
 
+  Below are the list of 3D formats crated as per the standards of popular web2 and web3 platforms, that you can access using the API.
+
 <div align="center">
       <img src="https://media.discordapp.net/attachments/1087307130958250004/1104027761993060372/Group_6.png?width=1001&height=532">
 </div>
-
-  Below are the list of 3D formats from the MetaDrip collection
 
     1) Decentraland
     2) Zepeto
