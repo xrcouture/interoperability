@@ -163,6 +163,7 @@ The response to this request will in Json format
   If you are not a metadrip collection holder and still want to test the api, you can do by following the below steps
   1) Mint a NFT
       You have to mint a NFT for yourself [here](https://polygonscan.com/address/0x99baf06205d8b8812680298edc06b8ff7f96894f#writeContract)
+      
       connect your wallet and call the **safeMint** function with a wallet address and below URI
       
       
