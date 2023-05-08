@@ -29,6 +29,7 @@ We wanted to see how closely this type of a collection can be created for differ
   - To create a wearable that can seamlessly be taken into different metaverses along with all the traits, bells and whistles that the original NFT would promise.
   - Explore different workflows and integrations to make the best use of current NFT verification systems.
   - Develop better and easier systems of working for both the creators and the platforms.
+  - Document each step of 3D Asset creation for multiple standards, in order to help create an 'Open standard'
 
 
 ---
