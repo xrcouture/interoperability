@@ -11,12 +11,13 @@ Welcome to the documentation of the API that enables interoperability for digita
 
 ## 🥅 Goal
 
-With this API we wish to enable,
-- users: to make digital fashion fun and easy, no matter what platform they use.
-- creators: showcase thier work and reach more people with interoperable wearables.
-- metaverse platforms: Enable interoperability and bring-in more users and creators.
-- Onboarding users to web3: By connecting web2 and web3 platfomrs, we can tap into the larger web2 audience and incentives them to explore new web3 pltaforms.
-- Promoting 'Open-Metaverse' and '3D Standards'
+With this API we wish to,
+- Promote 'Open-Metaverse' and '3D Standards'
+- Document various industry standards for wearabales and avatars:
+- Allow users to make digital fashion fun and easy to use, no matter what platform they are on.
+- Enable creators to showcase thier work and reach more people with interoperable wearables.
+- Enable interoperability and bring-in more users and creators for metaverse platforms
+- Tap into the larger web2 audience and incentives them to explore new web3 pltaforms. Thus, onboarding new users to web3.
 
 ---
 
