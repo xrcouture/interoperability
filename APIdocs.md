@@ -55,7 +55,7 @@ With this API we wish to,
 ### Access and authentication
   All API request is sent over HTTPS and accessed from https://api.model.metadrip.xrcouture.com
   
-  The API access is restricted and it needs an API key to access it. You can generate a key [here](https://metadripos.netlify.app/api)
+  The API access is restricted and it needs an API key to access it. You can generate a key [here](https://docs.xrcouture.com)
 
 ### Format
   The API request should be in below format
@@ -182,7 +182,7 @@ The response to this request will in Json format
    
      <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/test/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
      
-     You need an unique key to access this API. You can generate a key [here](https://metadripos.netlify.app/api)
+     You need an unique key to access this API. You can generate a key [here](https://docs.xrcouture.com)
   
 ## Support
 
