@@ -24,10 +24,11 @@ Hello and welcome to our GitHub profile! We are a team of passionate digital fas
 
 We aim to 
 
-- Develop interoperable wearables that are compatible with different platforms and standards.
-- Support a variety of use cases and scenarios.
-- Enhance the user’s experience as well as the creator’s experience.
-- Promote co-creation to develop the ecosystem as a whole.
+- Create high quality wearables that are compatible as per different platform formats.
+- Collaborate with other industry experts to develop a standard for wearables
+- Enable diverse and immersive use cases and scenarios.
+- mprove the experience for both users and developers.
+- Foster co-creation to grow the ecosystem together.
 
 
 ---
@@ -37,14 +38,13 @@ We aim to
 We define interoperability in 3 stages:
 
   ### 1. Airdrops/Linked wearables: 
-  Assets/NFT’s like wearables can be bought and used in as many platforms possible using connected airdrops for NFT’s
+  You can buy/claim and use wearables as NFTs on multiple platforms with connected airdrops and linked wearable systems.
       
   ### 2. API Integration:
-  API that works with multiple metaverse platforms allowing
-seamless exchange of information on their assets where users can move smoothly from one virtual world to another
+  You can access a common API that works with different metaverse platforms and allows seamless exchange of information and assets. You can also move your wearables from one virtual world to another
 
   ### 3. Open Standards: 
-  Universal Standards & Open-Source Technology implementation
+  Universal Standards & Open-Source Technology that enable interoperability at the core level.
 
 ---
 
@@ -55,32 +55,32 @@ seamless exchange of information on their assets where users can move smoothly f
 ## 🗺️ Our Projects and Roadmap
 
 
-Our experiments and projects are for the greater goal of interoperable fashion in the metaverse. We’ve shared our findings and research through some of our projects such as:
+All our experiments and projects are for the greater goal of achieving interoperable wearbables across the metaverse. We’ve shared our findings and research through some of our projects such as:
 
-  - ### Virtual try ons 
-    - A collection of 3d garments that anyone can virtually try on their photographs. Explore [here](https://github.com/xrcouture/interoperability/blob/main/VirtualTryOns.md)
+  - ### Virtual Photoshoot (launched in 2021) 
+    - A collection of hyper realistic digital fashion items that anyone can virtually try-on their photographs and publish acorss social media platfroms. Explore [here](https://github.com/xrcouture/interoperability/blob/main/VirtualTryOns.md)
   
   <div align="center">
     <img src="https://user-images.githubusercontent.com/122074866/235868988-a09e37fa-67df-45e6-831d-11b821b8b25b.png"/>
   </div>
   
-  - ### Metadrip
-    - A wearable NFT collection that can currently be used across 4 platforms. We unlock interoperability through experimentation. Explore [here](https://github.com/xrcouture/interoperability/blob/main/Metadrip.md)
+  - ### MetaDrip (launched in 2022) 
+    - A wearable NFT collection that can currently be worn across 4 metaverse platforms and showcased in AR/VR environments. We succefully unlock stage 1 of interoperability with MetaDrip 1.0. Explore [here](https://github.com/xrcouture/interoperability/blob/main/Metadrip.md)
     
     
     <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878287-4c0d8575-7abe-4708-afbb-f865e2c5a8f6.png" width="auto" height="20%"/>
   </div>
   
-  - ### WRBL 
-    - Easy 3d garment creation service for multiple platforms. Explore [here](https://github.com/xrcouture/interoperability/blob/main/WRBL.md)
+  - ### WRBL (launched in 2023)
+    - A 3D asset builder that lets you create and manage stunning 3D assets for your projects. Explore [here](https://github.com/xrcouture/interoperability/blob/main/WRBL.md)
     
     <div align="center">
      <img src="https://media.discordapp.net/attachments/1091046785180512356/1103312477569155133/Screenshot_2023-05-03_at_6.59.15_PM.png?width=852&height=532"/>
   </div>
   
-  - ### Clonex Dresser 
-    - A simple click to dress tool that we are building for the Clonex holders and later many more avatar types. Explore [here](https://github.com/xrcouture/interoperability/blob/main/CloneX_Dresser.md)
+  - ### Clonex Dresser (launching soon)
+    - A simple click to dress tool that we are building for the Clonex holders and later for many more avatar types. Explore [here](https://github.com/xrcouture/interoperability/blob/main/CloneX_Dresser.md)
   
    <div align="center">
      <img src="https://user-images.githubusercontent.com/122074866/235878778-316d1519-0640-4bf4-9797-f6e56d6fc2b4.png" width="auto" height="20%"/>
