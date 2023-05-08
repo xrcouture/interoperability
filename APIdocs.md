@@ -58,7 +58,7 @@ With this API we wish to,
   The API access is restricted and it needs an API key to access it. You can generate a key [here](https://docs.xrcouture.com)
 
 ### Format
-  The API request should be in below format
+  The API request should be in below formats
 
   <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
   
