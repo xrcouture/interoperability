@@ -13,7 +13,7 @@ Welcome to the documentation of the API that enables interoperability for digita
 
 With this API we wish to,
 - Promote 'Open-Metaverse' and '3D Standards'
-- Document various industry standards for wearabales and avatars:
+- [Document](https://github.com/xrcouture/interoperability/blob/main/3dDevelopmentProcess.md) various industry standards for wearabales and avatars:
 - Allow users to make digital fashion fun and easy to use, no matter what platform they are on.
 - Enable creators to showcase thier work and reach more people with interoperable wearables.
 - Enable interoperability and bring-in more users and creators for metaverse platforms
@@ -158,8 +158,18 @@ The response to this request will in Json format
     4) Snapchat
     5) Roblox
     6) Sandbox  
+    
+## How to Test the API
+  If you are not a metadrip collection holder and still want to test the api, you can do by following the below steps
+  1) Mint a NFT
+      You have to mint a NFT for yourself here with the below URI
+      
+      The NFT is free and you have to pay only the gas fees.
   
-# Support
+  2) Use the below REST API
+     https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+  
+## Support
 
   If you are facing any issues in integrating the API, please feel free to [book a meeting](https://calendly.com/rakesh-xrc/30min) with us.
 
