@@ -160,6 +160,8 @@ The response to this request will in Json format
     6) Sandbox  
     
 ## How to Test the API
+  ### Web3 API
+  
   If you are not a metadrip collection holder and still want to test the api, you can do by following the below steps
   1) Mint a NFT (Polygon)
   
@@ -180,7 +182,16 @@ The response to this request will in Json format
   
   2) Use the below REST API to retrieve the 3d files
    
-     <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/test/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+     <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
+     
+     You need an unique key to access this API. You can generate a key [here](https://docs.xrcouture.com)
+     
+  
+  ### Web2 API
+  1) Share your email Address [here](https://docs.xrcouture.com)
+  2) Use the below REST API to retrieve the 3d files
+   
+     <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web2/v1/{apikey}/platform/{platformName}/email/{emailAddress}
      
      You need an unique key to access this API. You can generate a key [here](https://docs.xrcouture.com)
   
