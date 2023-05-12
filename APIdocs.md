@@ -55,7 +55,7 @@ With this API we wish to,
 ### Access and authentication
   All API request is sent over HTTPS and accessed from https://api.model.metadrip.xrcouture.com
   
-  The API access is restricted and it needs an API key to access it. You can generate a key [here](https://docs.xrcouture.com)
+  The API access is restricted and it needs an API key to access it. You can [contact us](mailto:rakesh@xrcouture.com) for an API key
 
 ### Format
   The API request should be in below format
@@ -184,16 +184,16 @@ The response to this request will in Json format
    
      <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web3/v1/{apikey}/platform/{platformName}/address/{walletAddress}
      
-     You need an unique key to access this API. You can generate a key [here](https://docs.xrcouture.com)
+     You need an unique key to access this API. You can [contact us](mailto:rakesh@xrcouture.com) for an API key
      
   
   ### Web2 API
-  1) Share your email Address [here](https://docs.xrcouture.com)
+  1) Share your email Address [here](mailto:rakesh@xrcouture.com)
   2) Use the below REST API to retrieve the 3d files
    
      <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web2/v1/{apikey}/platform/{platformName}/email/{emailAddress}
      
-     You need an unique key to access this API. You can generate a key [here](https://docs.xrcouture.com)
+     You need an unique key to access this API. You can [contact us](mailto:rakesh@xrcouture.com) for an API key
   
 ## Support
 
