@@ -104,7 +104,7 @@ The response to this request will in Json format
   
   The API request should be in below format
 
-  <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web2/v1/{apikey}/platform/{platformName}/email/{emailAddress}
+  <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web2/v1/{apikey}/platform/{platformName}/email/{emailAddress}/
   
   where,
   
@@ -116,7 +116,7 @@ The response to this request will in Json format
 
   Example
 
-  https://api.model.metadrip.xrcouture.com/web2/v1/xrc-abcdefghijklmnopqrst/platform/decentraland/email/abc@xyz.com
+  https://api.model.metadrip.xrcouture.com/web2/v1/xrc-abcdefghijklmnopqrst/platform/decentraland/email/abc@xyz.com/
   
   ### Response
 The response to this request will in Json format
@@ -191,7 +191,7 @@ The response to this request will in Json format
   1) Share your email Address [here](mailto:rakesh@xrcouture.com)
   2) Use the below REST API to retrieve the 3d files
    
-     <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web2/v1/{apikey}/platform/{platformName}/email/{emailAddress}
+     <img src="https://img.shields.io/static/v1?label=&message=GET&color=blue"> https://api.model.metadrip.xrcouture.com/web2/v1/{apikey}/platform/{platformName}/email/{emailAddress}/
      
      You need an unique key to access this API. You can [contact us](mailto:rakesh@xrcouture.com) for an API key
   
