@@ -37,6 +37,6 @@ We’d be happy if you can collaborate in testing and feedback for the same
 
 [Automated avatar dressing - Avatar Dressing tool for clonex](https://github.com/xrcouture/interoperability/blob/main/CloneX_Dresser.md)
 
-[About our API integrations](https://github.com/xrcouture/interoperability/blob/main/APIdocs.md)
+[About our API integrations](https://docs.xrcouture.com)
 
 
